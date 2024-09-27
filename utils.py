@@ -35,7 +35,7 @@ def prompt_construction(requirement_index, few_shot_list, num_shot, method, bi_c
         prompt == prompt_base + get_few_shot_examples(requirement_index, few_shot_list, num_shot, method, bi_classification) + "The given requirement: "
        
 
-
+#
 def get_few_shot_examples(requirement_index, few_shot_list, num_shot, method, bi_classification):
     example_str = ""
     if method == "random":
