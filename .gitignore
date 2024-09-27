@@ -1,3 +1,4 @@
 .env
 .env_llama
+.env_siemens_api
 .ipynb_checkpoints

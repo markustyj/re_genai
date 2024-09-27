@@ -11,7 +11,7 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 
 messages = [
-    {"role": "system", "content": "You are a pirate chatbot who always responds in pirate speak!"},
+    {"role": "system", "content": "You are a senior software engineer who is experienced in software requirement classification!"},
     {"role": "user", "content": "Who are you?"},
 ]
 
