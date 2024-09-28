@@ -1,10 +1,15 @@
 ### functions that are used to support few-shot prompting
-### @ yongjian.tang@siemens.com
+### @ yongjian.tang@tum.de
+
 
 # F: functional, A: availability, FT: faulttolerance, LF: look & feel, MN: maintainability, O: operational,
 # PE: performance, PO: portability, SC: scalability, SE: security, US: usability, RE: reliability
 
 def prompt_construction(requirement_index, few_shot_list, num_shot, method, bi_classification, dataset):
+    """
+
+    """
+
     if bi_classification:
         prompt_base = ("Please classify the given software requirements into functional requirement or non-functional requirement. "
                 "The answer should be in format {the given requirement: functional requirement or non-functional requirement}."
@@ -33,31 +38,34 @@ def prompt_construction(requirement_index, few_shot_list, num_shot, method, bi_c
             few_shot_list = None   
 
         prompt == prompt_base + get_few_shot_examples(requirement_index, few_shot_list, num_shot, method, bi_classification) + "The given requirement: "
-       
 
-#
+
+    return prompt       
+
+
 def get_few_shot_examples(requirement_index, few_shot_list, num_shot, method, bi_classification):
     example_str = ""
     if method == "random":
+        few_shot_list = 
         for i in range(num_shot):
             if bi_classification:       # the requirement                               # the category of this requirement
-                example_str = example_str + few_shot_list[0][requirement_index][0] + ': ' + few_shot_list[0][requirement_index][2] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][2] + "\n"
             else: 
-                example_str = example_str + few_shot_list[0][requirement_index][0] + ': ' + few_shot_list[0][requirement_index][1] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][1] + "\n"
     
     elif method == "embedding":
         for i in range(num_shot):
             if bi_classification:       # the requirement                               # the category of this requirement
-                example_str = example_str + few_shot_list[1][requirement_index][0] + ': ' + few_shot_list[1][requirement_index][2] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][2] + "\n"
             else: 
-                example_str = example_str + few_shot_list[1][requirement_index][0] + ': ' + few_shot_list[1][requirement_index][1] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][1] + "\n"
 
     elif method == "tfidf":
         for i in range(num_shot):
             if bi_classification:       # the requirement                               # the category of this requirement
-                example_str = example_str + few_shot_list[2][requirement_index][0] + ': ' + few_shot_list[2][requirement_index][2] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][2] + "\n"
             else: 
-                example_str = example_str + few_shot_list[2][requirement_index][0] + ': ' + few_shot_list[2][requirement_index][1] + "\n"
+                example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][1] + "\n"
     
 
 
