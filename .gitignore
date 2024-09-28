@@ -2,3 +2,4 @@
 .env_llama
 .env_siemens_api
 .ipynb_checkpoints
+data/few_shot_list/
