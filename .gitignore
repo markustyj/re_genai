@@ -1,5 +1,7 @@
 .env
 .env_llama
 .env_siemens_api
+
+__pycache__
 .ipynb_checkpoints
 data/few_shot_list/
