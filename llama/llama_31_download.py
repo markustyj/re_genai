@@ -102,12 +102,12 @@ def read_prompt_list(path):
 
 
 
-def get_completion_list(prompt_list):
+def get_completion_list(prompt_list, tokenizer):
     start_time = time.time()  
     completion_list = []
     for i, prompt in enumerate(prompt_list[:20]): 
         print ("{}th prompt: ".format(i) + prompt + "\n######")
-        completion = get_completion (model, terminators, prompt)
+        completion = get_completion (model, tokenizer, prompt)
         print("completion: " + completion + "\n######")
         completion_list.append(completion)
     end_time = time.time()  
