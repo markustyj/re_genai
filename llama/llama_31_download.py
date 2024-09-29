@@ -13,7 +13,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 
+
 tokenizer = AutoTokenizer.from_pretrained(model_id)
+
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
@@ -117,19 +120,19 @@ def get_completion_list(prompt_list, tokenizer):
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_0_bi.txt'
 prompt_list = read_prompt_list(path)
-get_completion_list(prompt_list)
+get_completion_list(prompt_list, tokenizer)
 
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_5_bi.txt'
 prompt_list = read_prompt_list(path)
-get_completion_list(prompt_list)
+get_completion_list(prompt_list, tokenizer)
 
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_0.txt'
 prompt_list = read_prompt_list(path)
-get_completion_list(prompt_list)
+get_completion_list(prompt_list, tokenizer)
 
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_5.txt'
 prompt_list = read_prompt_list(path)
-get_completion_list(prompt_list)
+get_completion_list(prompt_list, tokenizer)
