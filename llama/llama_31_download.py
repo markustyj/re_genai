@@ -51,7 +51,7 @@ model = AutoModelForCausalLM.from_pretrained(
 # print(tokenizer.decode(response, skip_special_tokens=True))
 
 
-def get_completion(model, prompt):
+def get_completion(model, tokenizer, prompt):
     
     messages = [
         {"role": "system", "content": "You are a senior software engineer who is experienced in software requirement classification!"},
@@ -80,7 +80,7 @@ def get_completion(model, prompt):
 
     response = outputs[0][input_ids.shape[-1]:]
 
-    print(tokenizer.decode(response, skip_special_tokens=True))
+    return tokenizer.decode(response, skip_special_tokens=True)
 
 
 
