@@ -1,126 +1,126 @@
 RequirementText,Class,b_class
-'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.',SC,NF
-'The system shall refresh the display every 60 seconds.',PE,NF
-'Movies shall be encoded for 56k and 256k streams.',O,NF
-'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.',F,F
-'The leads washing functionality will compile both contact and academic scoring information for a total score.',F,F
-'The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.',F,F
-'The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.',US,NF
-'The product shall have a consistent color scheme and fonts.',LF,NF
-'The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.',US,NF
-'Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.',PE,NF
-'The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.',LF,NF
-'The system shall allow a user to define the time segments',F,F
-'If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.',F,F
-'The product shall be supported using the corporate support center.',O,NF
-'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.',F,F
-'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.',F,F
-'The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.',F,F
-'The product shall allow for intuitive searching of available conference rooms.',US,NF
-'The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.',F,F
-'The product will be available for licensing as a one-server two-five servers or five-or-more servers license.',O,NF
-'Students added to a cohort shall be eligible for the cohort’s Program of Study.',F,F
-'The product shall allow for customization of start page and views preferences.',US,NF
-'The system shall interface with the student master server.',O,NF
-'The ratings shall be from a scale of 1-10',F,F
-'Movies shall be encoded and streamed via Windows Media Player 9.0.',O,NF
-'The WCS system shall be available at all times as long as IBM’s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM’s internal intranet W3 is available.',A,NF
-'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.',FT,NF
-'The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.',L,NF
-'System shall let the administrator add/remove categories on the website in under 5 minutes.',PE,NF
-'The same hardware supporting the current website will be used to support the new system.',O,NF
-'Product formula ingredients shall allow defining substitutionary ingredients.',F,F
-'The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.',LF,NF
-'Users should only have to navigate through a maximum of 4 pages to create an account with the website.',US,NF
-'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.',SE,NF
-'The system shall display clear property images in the search results',F,F
-'Each page shall contain a navigation menu which shows the index into which the current page is contained.',LF,NF
-'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications',F,F
-'Once a game is initiated the product shall display an offensive grid to each player.',F,F
-'A cohort shall be associated to one Program of Study offered by the department.',F,F
-'The product shall maintain the status of each player for a turn either offensive or defensive.',F,F
-'Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.',US,NF
-'The application shall run on a web application server.',O,NF
-'The system shall notify the realtor when a seller or buyer responds to an appointment request',F,F
-'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.',US,NF
-'The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.',US,NF
-'The system shall cater to 10 simultaneous users from 9am to 5pm.',SC,NF
-'The adjuster shall request a recycled parts audit of the collision estimate.',F,F
-'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',FT,NF
-'Izogn Administrator must be able to add new products to the website within 2 minutes.',PE,NF
-'The website should appeal to all Africans not only Nigerians.',LF,NF
-'The product shall allow the player to position ships vertically on their grid.',F,F
-'The product shall notify building personnel of equipment transport requests.',F,F
-'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds',PE,NF
-'PME Subsystem shall allow for a product to exist in more than one submenu',F,F
-'The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).',F,F
-'The Disputes System shall provide view access capability for authorized users of the application.',F,F
-'The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.',PE,NF
-'The user shall select to view the preferred repair facility ratings.',F,F
-'The system shall be able to call the seller or buyer to schedule an appointment',F,F
-'The product must be able to interface with various email servers. The product shall be able to send email.',O,NF
-'The website shall continue to operate if the payment gateway goes down.',FT,NF
-'The product shall use a standard navigation menu familiar to most web users.',US,NF
-'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes',F,F
-'Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.',PE,NF
-'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.',F,F
-'We must be able to interface with any HTML browser.',O,NF
-'The system shall have a professional appearance',LF,NF
-'The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.',SC,NF
-'When a ship is sunk the product shall simulate the sound of a sinking ship.',LF,NF
-'PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.',F,F
-'The system shall display Events in a vertical table by time.',F,F
-'The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.',SC,NF
-'All customer information will be stored on a secure database accessible only to authorized personnel.',SE,NF
-'Only administrators can activate a pre-paid card.',SE,NF
-'A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.',F,F
-'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.',F,F
-'The product shall make inactive players unavailable for selection from the list of players.',F,F
-'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.',LF,NF
-'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes',F,F
-'The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.',LF,NF
-'The product shall update existing conference rooms.',F,F
-'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.',O,NF
-'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.',PE,NF
-'The system shall interface with the faculty central server.',O,NF
-'The product shall be available for distribution via the Internet as a binary or ZIP file.',O,NF
-'The preferred repair facility shall be returned to the user.',F,F
-'All additions of new users and modifications to user’s access shall be recorded on the User Report.',SE,NF
-'The server will support a maximum of 1 000 simultaneous users.',SC,NF
-'The appearance of the product shall appear professional',LF,NF
-'The system shall be available for use between the hours of 8am and 6pm.',A,NF
-'The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.',L,NF
-'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.',LF,NF
-'The system shall notify customers of changes to its information policy.',SE,NF
-'If the leads score falls within the high average score then it will be process by the ARA functionality.',F,F
-'The product shall record the transportation status of equipment reserved.',F,F
-'The product shall allow a player to initiate a game by selecting another available player from the list of players.',F,F
-'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.',PE,NF
-'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study',F,F
-'A clinical class shall specify the course name lecture room requirements clinical site needs lecture instructor needs and clinical lab instructor needs.',F,F
-'New System version releases shall be released at the beginning of each NFL season.',MN,NF
-'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.',US,NF
-'Website must interface with the CyberSource API to process credit card transactions.',O,NF
-'The leads washing functionality will have an interface in which lead data parameters can be maintained.',F,F
-'The system shall display the Events in a graph by time.',F,F
-The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.',A,NF
-'The leads washing functionality will validate all leads received by the web service for valid data',F,F
-'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.',SC,NF
-'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.',US,NF
-'The user shall enter new ratings based on the audit report',F,F
-'Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report)',US,NF
-'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.',US,NF
-'The system shall filter data by: Venues and Key Events.',F,F
-The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.',US,NF
-'The product shall be used in office environments.',O,NF
-'The product shall display conference rooms according to search parameters.',F,F
-'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',MN,NF
-'The product will function alongside server software on any operating system where the Java runtime can be installed.',O,NF
-'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.',F,F
-'The product must support Mozilla Firefox 1.0 and above.',O,NF
-'The system shall display the local and exercise time in separate clocks',F,F
-'The product shall display room equipment according to search parameters.',F,F
-'The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.',LF,NF
-'The user interface shall have standard menus buttons for navigation',LF,NF
-'The product shall allow a user to identify himself or herself as a player.',F,F
-'The system will provide a 24 hour 800 toll free number for support to its customers.',A,NF
+'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.',Scalability,Non-functional
+'The system shall refresh the display every 60 seconds.',Performance,Non-functional
+'Movies shall be encoded for 56k and 256k streams.',Operational,Non-functional
+'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.',Functional,Functional
+'The leads washing functionality will compile both contact and academic scoring information for a total score.',Functional,Functional
+'The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.',Functional,Functional
+'The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.',Usability,Non-functional
+'The product shall have a consistent color scheme and fonts.',Look and Feel,Non-functional
+'The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.',Usability,Non-functional
+'Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.',Performance,Non-functional
+'The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.',Look and Feel,Non-functional
+'The system shall allow a user to define the time segments',Functional,Functional
+'If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.',Functional,Functional
+'The product shall be supported using the corporate support center.',Operational,Non-functional
+'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.',Functional,Functional
+'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.',Functional,Functional
+'The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.',Functional,Functional
+'The product shall allow for intuitive searching of available conference rooms.',Usability,Non-functional
+'The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.',Functional,Functional
+'The product will be available for licensing as a one-server two-five servers or five-or-more servers license.',Operational,Non-functional
+'Students added to a cohort shall be eligible for the cohort’s Program of Study.',Functional,Functional
+'The product shall allow for customization of start page and views preferences.',Usability,Non-functional
+'The system shall interface with the student master server.',Operational,Non-functional
+'The ratings shall be from a scale of 1-10',Functional,Functional
+'Movies shall be encoded and streamed via Windows Media Player 9.0.',Operational,Non-functional
+'The WCS system shall be available at all times as long as IBM’s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM’s internal intranet W3 is available.',Availability,Non-functional
+'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.',Fault Tolerance,Non-functional
+'The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.',L,Non-functional
+'System shall let the administrator add/remove categories on the website in under 5 minutes.',Performance,Non-functional
+'The same hardware supporting the current website will be used to support the new system.',Operational,Non-functional
+'Product formula ingredients shall allow defining substitutionary ingredients.',Functional,Functional
+'The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.',Look and Feel,Non-functional
+'Users should only have to navigate through a maximum of 4 pages to create an account with the website.',Usability,Non-functional
+'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.',Security,Non-functional
+'The system shall display clear property images in the search results',Functional,Functional
+'Each page shall contain a navigation menu which shows the index into which the current page is contained.',Look and Feel,Non-functional
+'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications',Functional,Functional
+'Once a game is initiated the product shall display an offensive grid to each player.',Functional,Functional
+'A cohort shall be associated to one Program of Study offered by the department.',Functional,Functional
+'The product shall maintain the status of each player for a turn either offensive or defensive.',Functional,Functional
+'Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.',Usability,Non-functional
+'The application shall run on a web application server.',Operational,Non-functional
+'The system shall notify the realtor when a seller or buyer responds to an appointment request',Functional,Functional
+'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.',Usability,Non-functional
+'The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.',Usability,Non-functional
+'The system shall cater to 10 simultaneous users from 9am to 5pm.',Scalability,Non-functional
+'The adjuster shall request a recycled parts audit of the collision estimate.',Functional,Functional
+'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',Fault Tolerance,Non-functional
+'Izogn Administrator must be able to add new products to the website within 2 minutes.',Performance,Non-functional
+'The website should appeal to all Africans not only Nigerians.',Look and Feel,Non-functional
+'The product shall allow the player to position ships vertically on their grid.',Functional,Functional
+'The product shall notify building personnel of equipment transport requests.',Functional,Functional
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds',Performance,Non-functional
+'PME Subsystem shall allow for a product to exist in more than one submenu',Functional,Functional
+'The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).',Functional,Functional
+'The Disputes System shall provide view access capability for authorized users of the application.',Functional,Functional
+'The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.',Performance,Non-functional
+'The user shall select to view the preferred repair facility ratings.',Functional,Functional
+'The system shall be able to call the seller or buyer to schedule an appointment',Functional,Functional
+'The product must be able to interface with various email servers. The product shall be able to send email.',Operational,Non-functional
+'The website shall continue to operate if the payment gateway goes down.',Fault Tolerance,Non-functional
+'The product shall use a standard navigation menu familiar to most web users.',Usability,Non-functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes',Functional,Functional
+'Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.',Performance,Non-functional
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.',Functional,Functional
+'We must be able to interface with any HTML browser.',Operational,Non-functional
+'The system shall have a professional appearance',Look and Feel,Non-functional
+'The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.',Scalability,Non-functional
+'When a ship is sunk the product shall simulate the sound of a sinking ship.',Look and Feel,Non-functional
+'PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.',Functional,Functional
+'The system shall display Events in a vertical table by time.',Functional,Functional
+'The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.',Scalability,Non-functional
+'All customer information will be stored on a secure database accessible only to authorized personnel.',Security,Non-functional
+'Only administrators can activate a pre-paid card.',Security,Non-functional
+'A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.',Functional,Functional
+'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.',Functional,Functional
+'The product shall make inactive players unavailable for selection from the list of players.',Functional,Functional
+'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.',Look and Feel,Non-functional
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes',Functional,Functional
+'The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.',Look and Feel,Non-functional
+'The product shall update existing conference rooms.',Functional,Functional
+'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.',Operational,Non-functional
+'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.',Performance,Non-functional
+'The system shall interface with the faculty central server.',Operational,Non-functional
+'The product shall be available for distribution via the Internet as a binary or ZIP file.',Operational,Non-functional
+'The preferred repair facility shall be returned to the user.',Functional,Functional
+'All additions of new users and modifications to user’s access shall be recorded on the User Report.',Security,Non-functional
+'The server will support a maximum of 1 000 simultaneous users.',Scalability,Non-functional
+'The appearance of the product shall appear professional',Look and Feel,Non-functional
+'The system shall be available for use between the hours of 8am and 6pm.',Availability,Non-functional
+'The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.',L,Non-functional
+'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.',Look and Feel,Non-functional
+'The system shall notify customers of changes to its information policy.',Security,Non-functional
+'If the leads score falls within the high average score then it will be process by the ARA functionality.',Functional,Functional
+'The product shall record the transportation status of equipment reserved.',Functional,Functional
+'The product shall allow a player to initiate a game by selecting another available player from the list of players.',Functional,Functional
+'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.',Performance,Non-functional
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study',Functional,Functional
+'A clinical class shall specify the course name lecture room requirements clinical site needs lecture instructor needs and clinical lab instructor needs.',Functional,Functional
+'New System version releases shall be released at the beginning of each NFL season.',Maintainability,Non-functional
+'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.',Usability,Non-functional
+'Website must interface with the CyberSource API to process credit card transactions.',Operational,Non-functional
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.',Functional,Functional
+'The system shall display the Events in a graph by time.',Functional,Functional
+The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.',Availability,Non-functional
+'The leads washing functionality will validate all leads received by the web service for valid data',Functional,Functional
+'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.',Scalability,Non-functional
+'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.',Usability,Non-functional
+'The user shall enter new ratings based on the audit report',Functional,Functional
+'Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report)',Usability,Non-functional
+'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.',Usability,Non-functional
+'The system shall filter data by: Venues and Key Events.',Functional,Functional
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.',Usability,Non-functional
+'The product shall be used in office environments.',Operational,Non-functional
+'The product shall display conference rooms according to search parameters.',Functional,Functional
+'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',Maintainability,Non-functional
+'The product will function alongside server software on any operating system where the Java runtime can be installed.',Operational,Non-functional
+'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.',Functional,Functional
+'The product must support Mozilla Firefox 1.0 and above.',Operational,Non-functional
+'The system shall display the local and exercise time in separate clocks',Functional,Functional
+'The product shall display room equipment according to search parameters.',Functional,Functional
+'The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.',Look and Feel,Non-functional
+'The user interface shall have standard menus buttons for navigation',Look and Feel,Non-functional
+'The product shall allow a user to identify himself or herself as a player.',Functional,Functional
+'The system will provide a 24 hour 800 toll free number for support to its customers.',Availability,Non-functional

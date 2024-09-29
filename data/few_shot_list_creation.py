@@ -4,7 +4,7 @@ import random
 import csv
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def load_csv(file_path):  
     """ load csv file line by line, in list format  -> [ [first-row requirement, first-row category, .. ], [second-row requirement, second-row category, .. ], [], ... ] """
@@ -14,6 +14,7 @@ def load_csv(file_path):
         for row in csv_reader:  
             data.append(row)  
     return data[1:]  # do not need the first row of title ['RequirementText', 'class']
+
 
 
 def load_specific_dataset(dataset):
@@ -93,6 +94,7 @@ def get_embedding_few_shot_list(dataset):
     embedding_train_val = model.encode(loaded_data_train_val_requirement)
     embedding_test = model.encode(loaded_data_test_requirement)
 
+    # for each single test_requirement sample, rank the top relevant requirements in training dataset and obtain their index 
     index = find_most_relevant_vectors(embedding_test, embedding_train_val, num_k_closest_examples)
 
     for i in range(len(loaded_data_test)):
@@ -107,10 +109,11 @@ def get_embedding_few_shot_list(dataset):
 
 def find_most_relevant_vectors(embedding_test, embedding_train_val, num_k_closest_examples):  
     """for each single test_requirement sample, rank the top relevant requirements in training dataset and obtain their index 
+    embedding_test: embedding matrix, the number of test samples x embedding dimensions
+    embedding_train_val: embedding matrix, the number of test samples x embedding dimensions
     output
     index:  [ [the indexes of the most relevant training samples for requirement 1 in test dataset], [the indexes of the most relevant training samples for requirement 2 in test dataset], ...]
     """
-
     index = []
     for i, vec1 in enumerate(embedding_test):  
         distances = []  
@@ -123,3 +126,46 @@ def find_most_relevant_vectors(embedding_test, embedding_train_val, num_k_closes
         index.append(index_i_requirement)
 
     return index  
+
+
+def get_tfidf_few_shot_list(dataset):
+    """
+    input
+    dataset: the name of the processed datasets -> "nfr" or "promise"
+    loaded_data: the loaded csv file in format [ [first-row requirement, first-row category, .. ], [second-row requirement, second-row category, .. ], [], ... ]
+    output
+    few_shot_list: three-dimensional list --> each requirement sentence, its k closest few-shot examples, [the few-shot examples, the multi-class, the binary-class] 
+    """
+    few_shot_list = []
+
+    loaded_data_train, loaded_data_val, loaded_data_test = load_specific_dataset(dataset)
+    loaded_data_train_val = loaded_data_train + loaded_data_val
+    num_k_closest_examples = 160
+
+    # collect all textual requirements
+    loaded_data_train_val_requirement = [sublist[0] for sublist in loaded_data_train_val] 
+    loaded_data_test_requirement = [sublist[0] for sublist in loaded_data_test] 
+
+    #transform to tfidf vectors
+    v = TfidfVectorizer(min_df=0.001, max_df=0.8, analyzer='word')
+    fitted_corpus = v.fit(loaded_data_train_val_requirement)
+    tfidf_train_val = v.transform(loaded_data_train_val_requirement)
+    tfidf_test = v.transform(loaded_data_test_requirement)
+    # transform sparse matrix to numpy array
+    tfidf_train_val = np.float32(  tfidf_train_val.toarray() )   
+    tfidf_test = np.float32(  tfidf_test.toarray() )
+
+    # for each single test_requirement sample, rank the top relevant requirements in training dataset and obtain their index 
+    index = find_most_relevant_vectors(tfidf_test, tfidf_train_val, num_k_closest_examples)
+    
+    for i in range(len(loaded_data_test)):
+        k_closest_examples = []
+        for j in range(num_k_closest_examples):
+            k_closest_examples.append(loaded_data_train_val[index[i][j]])
+        few_shot_list.append(k_closest_examples)
+
+    file_path = './few_shot_list/' + dataset + '_tfidf.npy'
+    np.save(file_path, np.array(few_shot_list))
+
+    #return few_shot_list
+
