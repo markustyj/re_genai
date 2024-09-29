@@ -46,7 +46,7 @@ def get_random_few_shot_list(dataset):
     dataset: the name of the processed datasets -> "nfr" or "promise"
     loaded_data: the loaded csv file in format [ [first-row requirement, first-row category, .. ], [second-row requirement, second-row category, .. ], [], ... ]
     output
-    few_shot_list: three-dimensional list --> each requirement sentence, its k closest few-shot examples, [the few-shot examples, the multi-class, the binary-class] 
+    few_shot_list: three-dimensional list --> each requirement sentence, *times* its k closest few-shot examples, *times* [the few-shot examples, the multi-class, the binary-class] 
     """
     loaded_data_train, loaded_data_val, loaded_data_test = load_specific_dataset(dataset)
     loaded_data_train_val = loaded_data_train + loaded_data_val
@@ -79,7 +79,7 @@ def get_embedding_few_shot_list(dataset):
     dataset: the name of the processed datasets -> "nfr" or "promise"
     loaded_data: the loaded csv file in format [ [first-row requirement, first-row category, .. ], [second-row requirement, second-row category, .. ], [], ... ]
     output
-    few_shot_list: three-dimensional list --> each requirement sentence, its k closest few-shot examples, [the few-shot examples, the multi-class, the binary-class] 
+    few_shot_list: three-dimensional list --> each requirement sentence, *times* its k closest few-shot examples, *times* [the few-shot examples, the multi-class, the binary-class] 
     """
     few_shot_list = []
 
@@ -112,7 +112,7 @@ def find_most_relevant_vectors(embedding_test, embedding_train_val, num_k_closes
     embedding_test: embedding matrix, the number of test samples x embedding dimensions
     embedding_train_val: embedding matrix, the number of test samples x embedding dimensions
     output
-    index:  [ [the indexes of the most relevant training samples for requirement 1 in test dataset], [the indexes of the most relevant training samples for requirement 2 in test dataset], ...]
+    index: 2-dimensional list,  [ [the indexes of the most relevant training samples for the first requirement in test dataset], [the indexes of the most relevant training samples for requirement 2 in test dataset], ...]
     """
     index = []
     for i, vec1 in enumerate(embedding_test):  
@@ -134,7 +134,7 @@ def get_tfidf_few_shot_list(dataset):
     dataset: the name of the processed datasets -> "nfr" or "promise"
     loaded_data: the loaded csv file in format [ [first-row requirement, first-row category, .. ], [second-row requirement, second-row category, .. ], [], ... ]
     output
-    few_shot_list: three-dimensional list --> each requirement sentence, its k closest few-shot examples, [the few-shot examples, the multi-class, the binary-class] 
+    few_shot_list: three-dimensional list --> each requirement sentence, *times* its k closest few-shot examples, *times* [the few-shot examples, the multi-class, the binary-class] 
     """
     few_shot_list = []
 
