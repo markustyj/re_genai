@@ -78,7 +78,7 @@ def get_completion(model, tokenizer, prompt):
     eos_token_id=terminators,
     do_sample=False,
     temperature=0,
-    top_p=0.9,
+    #top_p=0.9,
     )
 
     response = outputs[0][input_ids.shape[-1]:]
