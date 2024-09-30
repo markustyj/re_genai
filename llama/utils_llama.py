@@ -26,7 +26,7 @@ def get_completion(pipeline, prompt):
         max_new_tokens=6666,
     )        
 
-    return completion
+    return completion[0]["generated_text"][-1]["content"]
 
 
 
@@ -56,6 +56,9 @@ def save_completion_list(path, completion_list):
                 file.write(completion)
             else:     
                 file.write(completion + "\n\n\n")
+
+
+
 # def get_completion_llama31(model, tokenizer, prompt):
     
 #     messages = [
