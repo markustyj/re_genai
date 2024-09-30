@@ -171,12 +171,6 @@ RequirementText,Class,b_class
 'Only the System Administrator shall be able to reset a revoked user logon account',Security,Non-functional
 'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.',Security,Non-functional
 'All updates to data files or database must be initiated from the Disputes System.',Security,Non-functional
-'The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.',L,Non-functional
-'All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.',L,Non-functional
-'The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.',L,Non-functional
-'All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.',L,Non-functional
-'The Disputes application must maintain a detailed history of every action that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.',L,Non-functional
-'All actions that modify an existing dispute case must be recorded in the case history.',L,Non-functional
 'The Disputes System must be accessible by both internal and external users.',Functional,Functional
 'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.',Functional,Functional
 'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.',Functional,Functional
@@ -236,9 +230,6 @@ RequirementText,Class,b_class
 'One insurance company shall not be able to view another insurance companys claim data.',Security,Non-functional
 'The product shall free of computer viruses.',Security,Non-functional
 'The system shall prevent malicious attacks including denial of service.',Security,Non-functional
-'The product must comply with Sarbanes-Oxley.',L,Non-functional
-'The product shall comply with the estimatics laws relating to recycled parts usage.',L,Non-functional
-'The product shall comply with insurance regulations regarding claims processing.',L,Non-functional
 'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles',Functional,Functional
 'The vehicle data shall include vehicle year make and model',Functional,Functional
 'The vehicle location shall include street address city state and zipcode',Functional,Functional
@@ -355,7 +346,6 @@ RequirementText,Class,b_class
 'The System shall be able to automatically backup business data and restore them on demand.',Operational,Non-functional
 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.',Security,Non-functional
 'The System shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.',Security,Non-functional
-'The System shall meet all applicable accounting standards. The final version of the System must successfully pass independent audit performed by a certified auditor.',L,Non-functional
 'The System shall not require additional third party licenses resulting in royalty fees.',Operational,Non-functional
 'The System shall allow generation of Inventory Quantity Adjustment documents on demand.',Functional,Functional
 'The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.',Functional,Functional
@@ -442,9 +432,6 @@ RequirementText,Class,b_class
 'The website shall not be offensive to religious or ethnic groups.',Look and Feel,Non-functional
 'The website should appeal to all Africans not only Nigerians.',Look and Feel,Non-functional
 'The website should use Flash to provide animation on the home page.',Operational,Non-functional
-'IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.',L,Non-functional
-'The website will comply with W3C standards.',L,Non-functional
-'The PHP code will comply with PEAR standards.',L,Non-functional
 'The website will allow customers to search for movies by title actor or director.',Functional,Functional
 'viewing a movie details the website will display the movies description actor and director entered in by the administrator.',Functional,Functional
 'Website shall request and authorize credit card payment before allowing a user to stream a movie.',Functional,Functional

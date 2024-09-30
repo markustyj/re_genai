@@ -177,24 +177,35 @@ def save_prompt_list(path, prompt_list):
             file.write(prompt + "\n\n\n")
 
 
+
 def read_prompt_list(path):
     """read the saved list of prompts 
     input
         path, string path to save the list
     """
     with open(path, 'r') as file:  
-        prompt_list_read = []
-        prompt = ""                            
-        num_line_n = 0
-        for line in file:
-            # read the prompt one by one based on the double empty line /n/n/n
-            if line == "\n":
-                num_line_n = num_line_n + 1
-                if num_line_n == 2:
-                    prompt_list_read.append(prompt)
-                    prompt = ""
-                    num_line_n = 0
-            else:
-                prompt = prompt + "\n" + line  
+        content = file.read()  
+    prompt_list_read = content.split('\n\n\n')   
 
     return prompt_list_read
+# def read_prompt_list(path):
+#     """read the saved list of prompts 
+#     input
+#         path, string path to save the list
+#     """
+#     with open(path, 'r') as file:  
+#         prompt_list_read = []
+#         prompt = ""                            
+#         num_line_n = 0
+#         for line in file:
+#             # read the prompt one by one based on the double empty line /n/n/n
+#             if line == "\n":
+#                 num_line_n = num_line_n + 1
+#                 if num_line_n == 2:
+#                     prompt_list_read.append(prompt)
+#                     prompt = ""
+#                     num_line_n = 0
+#                 else:
+#                     prompt = prompt + "\n" + line  
+
+#     return prompt_list_read
