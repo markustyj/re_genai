@@ -1,0 +1,372 @@
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (for both)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional, Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional, Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional and Non-functional
+
+The first part, "The product shall be easy to learn by Adjusters and Collision Estimators," is a Non-functional requirement because it deals with the usability aspect of the product, which is not directly related to the product's functionality but rather its user experience.
+
+The second part, "The product shall be learned with two days onsite training," is a Functional requirement because it specifies a particular action or behavior that the product must support, i.e., the ability to be learned within a certain timeframe through onsite training.
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional, Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (for the first part, i.e. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases.')
+Functional (for the second part, i.e. 'For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.')
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (twice)
+
+
+ Non-functional (twice)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional

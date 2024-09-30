@@ -4,184 +4,7 @@
  Functional
 
 
- Functional
-
-
- Functional
-
-
  Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Non-functional
-
-
- Non-functional (for the first part, as it pertains to the aesthetic aspect of the software, not its functionality. The second part can be considered a performance requirement under non-functional, as it quantifies user satisfaction with the interface's simplicity.)
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional (Usability, Performance)
-
-
- Functional
-
-
- Non-functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional (for both requirements)
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Non-functional
-
-
- Functional
-
-
- Functional
 
 
  Functional
@@ -199,19 +22,40 @@
  Non-functional
 
 
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
  Functional
 
 
  Functional
 
 
- Functional, Functional
+ Non-functional
 
 
- Functional
-
-
- Non-functional (Performance)
+ Non-functional
 
 
  Non-functional
@@ -226,7 +70,16 @@
  Functional
 
 
+ Non-functional (for both)
+
+
  Functional
+
+
+ Functional
+
+
+ Non-functional
 
 
  Non-functional
@@ -238,7 +91,16 @@
  Functional
 
 
- Functional
+ Non-functional
+
+
+ Functional, Non-functional (two separate requirements)
+
+1. 'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.': Functional
+2. 'Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.': Non-functional
+
+
+ Functional (twice)
 
 
  Functional
@@ -268,22 +130,16 @@
  Non-functional
 
 
+ Functional
+
+
  Non-functional
 
 
+ Functional
+
+
  Non-functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
-
-
- Functional
 
 
  Functional
@@ -317,6 +173,108 @@
 
 
  Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Error Tracking Services is a service provided by the software, and the 99% requirement is a performance or quality attribute)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional (specifically, Performance)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
 
 
  Functional
@@ -355,6 +313,24 @@
  Functional
 
 
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
  Functional
 
 
@@ -364,4 +340,31 @@
  Functional
 
 
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
  Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional

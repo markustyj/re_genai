@@ -205,7 +205,7 @@
  Functional
 
 
- Functional, Functional
+ Functional (twice)
 
 
  Functional
@@ -271,7 +271,7 @@
  Non-functional
 
 
- Non-functional
+ Functional
 
 
  Functional

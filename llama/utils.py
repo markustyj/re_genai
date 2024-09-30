@@ -1,23 +1,18 @@
 ### functions that are used to support few-shot prompting
 ### @ yongjian.tang@tum.de
 
+import time
 
 def read_prompt_list(path):
-    """read the saved list of prompts"""
-    ## load the prompt_list
-
+    """read the saved list of prompts 
+    input
+        path, string path to save the list
+    """
     with open(path, 'r') as file:  
-        prompt_list_read = []
-        prompt = ""        
-        for line in file:
-            if line == "\n":
-                prompt_list_read.append(prompt)
-                prompt = ""
-            else:
-                prompt = prompt + "\n" + line  
+        content = file.read()  
+    prompt_list_read = content.split('\n\n\n')   
 
     return prompt_list_read
-
 
 
 def get_completion(pipeline, prompt):
