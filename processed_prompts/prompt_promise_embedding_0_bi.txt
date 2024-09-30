@@ -488,5 +488,3 @@ The given requirement: 'Product formula substitutionary ingredients shall be ent
 
 Please classify the given software requirements into functional requirement or non-functional requirement. The answer should be one word, i.e. Functional or Non-functional. 
 The given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

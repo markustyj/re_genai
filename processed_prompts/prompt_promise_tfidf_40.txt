@@ -5654,5 +5654,3 @@ The system shall be easy to use by callers and supervisors. Callers and supervis
 'The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

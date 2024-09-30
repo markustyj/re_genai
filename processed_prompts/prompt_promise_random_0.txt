@@ -365,5 +365,3 @@ Please classify the given software requirements into the following categories: F
 
 
 Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.The given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

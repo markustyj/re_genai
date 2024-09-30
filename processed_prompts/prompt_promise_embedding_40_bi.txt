@@ -5777,5 +5777,3 @@ The system shall be responsive. At the DePaul TeleServices Center when a supervi
 'The report of needed classes shall include (but not be limited to) classes to be offered number of sections needed number of labs needed and room types needed.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

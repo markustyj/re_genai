@@ -10457,5 +10457,3 @@ Please classify the given nonfunctional software requirements into the following
 
 
 Please classify the given nonfunctional software requirements into the following categories: Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security. The answer should be very concise and short, i.e. only one of the above-mentioned categories.The given requirement: Why is np.unique slower without index return in some cases?
-
-

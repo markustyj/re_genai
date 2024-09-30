@@ -10574,5 +10574,3 @@ The product shall ensure that only supervisors can enter a caller’s schedule.T
 'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.': Operational
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

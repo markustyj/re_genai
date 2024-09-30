@@ -2087,5 +2087,3 @@ Below are some demonstration examples for you to learn, which consist of a softw
 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

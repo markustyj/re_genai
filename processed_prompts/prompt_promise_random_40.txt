@@ -5654,5 +5654,3 @@ The product shall be internet browser independent.The product must run using Int
 'The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player’s ships which had not been previously marked as sunk.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

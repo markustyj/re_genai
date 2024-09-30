@@ -1472,5 +1472,3 @@ Below are some demonstration examples for you to learn, which consist of a softw
 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

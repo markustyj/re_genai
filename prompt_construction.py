@@ -173,8 +173,11 @@ def save_prompt_list(path, prompt_list):
         prompt_list, list of constructed prompts from the first requirement/sentence in test dataset to the last one
     """
     with open(path, 'w', newline='\n') as file:  
-        for prompt in prompt_list:
-            file.write(prompt + "\n\n\n")
+        for i, prompt in enumerate(prompt_list):
+            if i+1 == len(prompt_list):
+                file.write(prompt)
+            else:     
+                file.write(prompt + "\n\n\n")
 
 
 
@@ -188,6 +191,8 @@ def read_prompt_list(path):
     prompt_list_read = content.split('\n\n\n')   
 
     return prompt_list_read
+
+
 # def read_prompt_list(path):
 #     """read the saved list of prompts 
 #     input

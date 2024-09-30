@@ -10574,5 +10574,3 @@ The product shall be internet browser independent.The product must run using Int
 'The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

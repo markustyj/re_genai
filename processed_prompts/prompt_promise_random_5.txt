@@ -1349,5 +1349,3 @@ Below are some demonstration examples for you to learn, which consist of a softw
 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Security
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

@@ -1964,5 +1964,3 @@ Below are some demonstration examples for you to learn, which consist of a softw
 'The product must be able to interface with various email servers. The product shall be able to send email.': Operational
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-

@@ -3317,5 +3317,3 @@ The system shall be easy to use by callers and supervisors. Callers and supervis
 'The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.': Functional
 
 Now, classify the following given requirement: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
-
-
