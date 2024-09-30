@@ -42,6 +42,7 @@ def get_completion_list(pipeline, prompt_list):
     end_time = time.time()  
     print("execution time: {}".format(end_time - start_time) + "second")
 
+    return completion_list
 
 
 def save_completion_list(path, completion_list):
