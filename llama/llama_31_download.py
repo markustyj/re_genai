@@ -21,23 +21,51 @@ pipe = pipeline(
     max_new_tokens=6666,
 )
 
+################# promise binary random
+
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_0_bi.txt'
 prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list[:20])
+completion_list = get_completion_list(pipe, prompt_list)
 path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_0_bi.txt'
 save_completion_list(path, completion_list)
 
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_5_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_5_bi.txt'
+save_completion_list(path, completion_list)
 
-# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_5_bi.txt'
-# prompt_list = read_prompt_list(path)
-# get_completion_list(prompt_list, pipe)
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_10_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_10_bi.txt'
+save_completion_list(path, completion_list)
+
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_20_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_20_bi.txt'
+save_completion_list(path, completion_list)
+
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_40_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_40_bi.txt'
+save_completion_list(path, completion_list)
+
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_80_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_80_bi.txt'
+save_completion_list(path, completion_list)
+
+path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_160_bi.txt'
+prompt_list = read_prompt_list(path)
+completion_list = get_completion_list(pipe, prompt_list)
+path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_160_bi.txt'
+save_completion_list(path, completion_list)
 
 
-# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_0.txt'
-# prompt_list = read_prompt_list(path)
-# get_completion_list(prompt_list, pipe)
+################# promise binary random
 
 
-# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_5.txt'
-# prompt_list = read_prompt_list(path)
-# get_completion_list(prompt_list, pipe)
