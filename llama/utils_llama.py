@@ -33,7 +33,7 @@ def get_completion(pipeline, prompt):
 def get_completion_list(pipeline, prompt_list):
     start_time = time.time()  
     completion_list = []
-    for i, prompt in enumerate(prompt_list[:20]): 
+    for i, prompt in enumerate(prompt_list): 
         print ("{}th prompt: ".format(i) + prompt + "\n######")
         completion = get_completion (pipeline, prompt)
         print("completion: " + completion + "\n######")

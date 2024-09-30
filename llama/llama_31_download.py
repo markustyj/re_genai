@@ -23,7 +23,7 @@ pipe = pipeline(
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_promise_random_0_bi.txt'
 prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(prompt_list[:20], pipe)
+completion_list = get_completion_list(pipe, prompt_list[:20])
 path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_promise_random_0_bi.txt'
 save_completion_list(path, completion_list)
 
