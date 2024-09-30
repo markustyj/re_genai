@@ -71,14 +71,14 @@ def prompt_construction(dataset, method, num_shot, bi_classification, requiremen
     if bi_classification:
         prompt_base = ("Please classify the given software requirements into functional requirement or non-functional requirement. "
                 #"The answer should be in format {the given requirement: functional requirement or non-functional requirement}."
-                "The answer should be one word, i.e. Functional or Non-functional"
+                "The answer should be one word, i.e. Functional or Non-functional. \n"
                 )
     elif bi_classification == False:    
         prompt_base = ("Please classify the given software requirements into the following categories: "
                        "Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, "
                        "Performance, Portability, Scalability, Security, Usability. "
                        #"The answer should be in format {the given requirement: the name of classified category}."
-                       "The answer should be concise and shorter than three words, i.e. one of the above-mentioned categories."
+                       "The answer should be very concise and short, i.e. only one of the above-mentioned categories."
                         )
     else: 
         raise ValueError("bi_classification must be True or False.")    
@@ -91,7 +91,7 @@ def prompt_construction(dataset, method, num_shot, bi_classification, requiremen
                        "Availability, Fault Tolerance, Maintainability, "
                        "Performance, Portability, Scalability, Security. "
                        #"The answer should be in format {the given requirement: the name of the classified category}."
-                       "The answer should be concise and shorter than three words, i.e. one of the above-mentioned categories."
+                       "The answer should be very concise and short, i.e. only one of the above-mentioned categories."
 
                         ) 
 
@@ -99,7 +99,7 @@ def prompt_construction(dataset, method, num_shot, bi_classification, requiremen
     if num_shot == 0:
         prompt = prompt_base + "The given requirement: " + input_requirement
     elif num_shot > 0:    
-        prompt = prompt_base + get_str_few_shot_examples(requirement_index, dataset, method, num_shot, bi_classification) + input_requirement
+        prompt = prompt_base + get_str_few_shot_examples(requirement_index, dataset, method, num_shot, bi_classification) + "\nNow, classify the following given requirement: " + input_requirement
     else: 
         raise ValueError("num_shot has to be a decimal number.")    
  
@@ -129,7 +129,7 @@ def get_str_few_shot_examples(requirement_index, dataset, method, num_shot, bi_c
         else: 
             example_str = example_str + few_shot_list[requirement_index][i][0] + ': ' + few_shot_list[requirement_index][i][1] + "\n"
 
-    return "\nHere are a few examples: \n" + example_str
+    return "\nBelow are some demonstration examples for you to learn, which consist of a software requirement and its category: \n" + example_str
 
 
 
@@ -174,7 +174,7 @@ def save_prompt_list(path, prompt_list):
     """
     with open(path, 'w', newline='\n') as file:  
         for prompt in prompt_list:
-            file.write(prompt + "\n\n")
+            file.write(prompt + "\n\n\n")
 
 
 def read_prompt_list(path):
@@ -184,11 +184,16 @@ def read_prompt_list(path):
     """
     with open(path, 'r') as file:  
         prompt_list_read = []
-        prompt = ""
+        prompt = ""                            
+        num_line_n = 0
         for line in file:
+            # read the prompt one by one based on the double empty line /n/n/n
             if line == "\n":
-                prompt_list_read.append(prompt)
-                prompt = ""
+                num_line_n = num_line_n + 1
+                if num_line_n == 2:
+                    prompt_list_read.append(prompt)
+                    prompt = ""
+                    num_line_n = 0
             else:
                 prompt = prompt + "\n" + line  
 
