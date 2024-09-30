@@ -5,3 +5,5 @@
 __pycache__
 .ipynb_checkpoints
 data/few_shot_list/
+
+.gitattributes
