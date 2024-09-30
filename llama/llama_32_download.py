@@ -23,7 +23,7 @@ pipe = pipeline(
     model=model_id, 
     torch_dtype=torch.bfloat16, 
     device_map="auto",
-    max_new_tokens=256,
+    max_new_tokens=12000,
 )
 
 

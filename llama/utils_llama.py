@@ -34,10 +34,10 @@ def get_completion_list(pipeline, prompt_list):
     start_time = time.time()  
     completion_list = []
     for i, prompt in enumerate(prompt_list): 
-        print ("{}th prompt: ".format(i) + prompt + "\n######")
+        #print ("{}th prompt: ".format(i) + prompt + "\n######")
         completion = get_completion (pipeline, prompt)
-        print(completion)
-        print("\n######")
+        #print(completion)
+        #print("\n######")
         completion_list.append(completion)
     end_time = time.time()  
     print("execution time: {}".format(end_time - start_time) + "second")
