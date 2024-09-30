@@ -15,16 +15,18 @@ def read_prompt_list(path):
     return prompt_list_read
 
 
+
 def get_completion(pipeline, prompt):
     messages = [
         {"role": "system", "content": "You are a senior software engineer who is experienced in software requirement classification!"},
         {"role": "user", "content": prompt},
     ]
-
-    outputs = pipeline(
+    completion = pipeline(
         messages,
         max_new_tokens=6666,
     )        
+
+    return completion
 
 
 
@@ -41,6 +43,18 @@ def get_completion_list(pipeline, prompt_list):
 
 
 
+def save_completion_list(path, completion_list):
+    """save the constructed prompts with few-shot examples in a list 
+    input
+        path, string path to save the list
+        prompt_list, list of constructed prompts from the first requirement/sentence in test dataset to the last one
+    """
+    with open(path, 'w', newline='\n') as file:  
+        for i, completion in enumerate(completion_list):
+            if i+1 == len(completion_list):
+                file.write(completion)
+            else:     
+                file.write(completion + "\n\n\n")
 # def get_completion_llama31(model, tokenizer, prompt):
     
 #     messages = [
