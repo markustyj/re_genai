@@ -1,7 +1,7 @@
 Functional
 
 
-Functional
+Look and Feel
 
 
 Operational
@@ -16,7 +16,7 @@ Operational
 Look and Feel
 
 
-Usability
+Functional
 
 
 Scalability
@@ -76,7 +76,7 @@ Security
 Functional
 
 
-Security
+Functional
 
 
 Usability
@@ -85,7 +85,7 @@ Usability
 Performance
 
 
-Performance
+Functional
 
 
 Functional
@@ -124,130 +124,22 @@ Usability
 Functional
 
 
-Usability
-
-
-Operational
-
-
-Portability
-
-
 Functional
 
 
 Usability
-
-
-Functional
-
-
-Functional
-
-
-Performance
-
-
-Look and Feel
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Security
-
-
-Look and Feel
-
-
-Operational
-
-
-Functional
-
-
-Operational
-
-
-Security
-
-
-Look and Feel
-
-
-Functional
-
-
-Functional
-
-
-Availability
-
-
-Performance
-
-
-Security
-
-
-Security
-
-
-Functional
-
-
-Performance
-
-
-Usability
-
-
-Functional
-
-
-Look and Feel
-
-
-Functional
 
 
 Maintainability
 
 
-Scalability
-
-
-Security
-
-
 Functional
 
 
-Portability
-
-
-Scalability
+Usability
 
 
 Functional
-
-
-Scalability
 
 
 Functional
@@ -256,16 +148,124 @@ Functional
 Performance
 
 
-Performance
+Look and Feel
 
 
-Security
+Functional
 
 
-Legal
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
 
 
 Availability
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Usability
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Security
+
+
+Functional
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+Operational
+
+
+Security
+
+
+Performance
 
 
 Usability
@@ -298,7 +298,7 @@ Functional
 Availability
 
 
-Security
+Maintainability
 
 
 Functional
@@ -337,7 +337,7 @@ Security
 Usability
 
 
-Legal
+Look and Feel
 
 
 Performance
@@ -355,7 +355,7 @@ Functional
 Functional
 
 
-Security
+Performance
 
 
 Performance
@@ -364,4 +364,4 @@ Performance
 Functional
 
 
-Usability
+Availability

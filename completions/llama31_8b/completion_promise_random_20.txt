@@ -43,7 +43,7 @@ Functional
 Usability
 
 
-Look and Feel
+Usability
 
 
 Functional
@@ -106,7 +106,7 @@ Functional
 Functional
 
 
-Look and Feel
+Usability
 
 
 Functional
@@ -118,7 +118,7 @@ Operational
 Functional
 
 
-Functional
+Usability
 
 
 Functional
@@ -181,7 +181,7 @@ Operational
 Functional
 
 
-Portability
+Operational
 
 
 Security
@@ -328,7 +328,7 @@ Security
 Functional
 
 
-Availability
+Operational
 
 
 Security
@@ -337,7 +337,7 @@ Security
 Usability
 
 
-Look and Feel
+Legal
 
 
 Performance

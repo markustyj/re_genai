@@ -1,21 +1,21 @@
-The given requirement: 'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.'
-
-Category: Functional
+Functional
 
 
-The category for the given requirement is: Look and Feel
+Look and Feel
 
 
 Operational
 
 
-I would classify the given requirement as: Look and Feel
+Functional
 
 
 Operational
 
 
-The requirement is: Usability
+The given requirement: 'The product shall use a standard navigation menu familiar to most web users.'
+
+Category: Usability
 
 
 Functional
@@ -27,7 +27,7 @@ Scalability
 Operational
 
 
-I would classify this requirement as: Operational
+Functional
 
 
 Look and Feel
@@ -57,160 +57,79 @@ Operational
 Usability
 
 
-The requirement is classified as: Usability
+Usability
 
 
-The classification for this requirement is: Usability
+Usability
+
+
+I would classify this requirement as: Usability
+
+
+The given requirement is classified as: Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Security
+
+
+Usability
+
+
+Performance
+
+
+The requirement "All movies shall be streamed on demand at any time of the day" falls under the category of **Performance**.
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+The requirement "The system shall offer the ability to pause and resume the refresh of data." falls under the category of **Performance**.
 
 
 I would classify this requirement as "Usability".
 
 
-The given requirement: 'All customer information will be stored on a secure database accessible only to authorized personnel.'
-
-Classification: Security
-
-
-I would classify the given requirement as: Functional
-
-
-Security
-
-
 Functional
 
 
-I would classify this requirement as: Security
+I would classify this requirement as "Usability".
 
 
-Usability
-
-
-Performance
-
-
-I would classify this requirement as "Availability".
-
-
-Functional
-
-
-Look and Feel
-
-
-Usability
-
-
-Performance
-
-
-Functional
-
-
-Functional
-
-
-Look and Feel
-
-
-I would classify this requirement as: Functional
-
-
-Operational
-
-
-I would classify the requirement "The system shall offer the ability to pause and resume the refresh of data" as: Performance
-
-
-The given requirement is: 'The owner shall have free access to all of the streaming movies.'
-
-This requirement falls under the category of: Usability
-
-
-Functional
-
-
-The given requirement is classified as: Usability
-
-
-The given requirement is classified as: Operational
-
-
-Based on the given requirement, I would classify it as: Maintainability
-
-
-The requirement is classified as: Functional
-
-
-Usability
-
-
-Functional
-
-
-Functional
-
-
-I would classify this requirement as "Performance".
-
-
-Look and Feel
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Look and Feel
-
-
-Security
-
-
-Security
-
-
-Look and Feel
-
-
-The requirement 'The Disputes System must be accessible by both internal and external users.' falls under the category: Operational.
-
-
-Functional
-
-
-Operational
-
-
-Security
-
-
-Look and Feel
-
-
-I would classify this requirement as "Functional".
-
-
-The requirement "The system shall be able to display a printable summary of the system log." belongs to the category: Maintainability.
-
-
-Performance
-
-
-The given requirement: 'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds'
-
-This requirement falls under the category of: Performance
-
-
-The requirement "The website shall prevent its data from being corrupted when incorrect data is entered in." falls under the category of **Security**.
+The requirement is classified as: Maintainability
 
 
 The given requirement is classified as: Maintainability
@@ -219,19 +138,102 @@ The given requirement is classified as: Maintainability
 Functional
 
 
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Security
+
+
+Security
+
+
+Look and Feel
+
+
+The given requirement: 'The Disputes System must be accessible by both internal and external users.'
+
+Category: Operational
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+The requirement "The system shall be able to display a printable summary of the system log." falls under the category of Maintainability.
+
+
+The given requirement is: 'Promotional updates to the website should take a day to update.'
+
+This requirement falls under the category of: **Availability**
+
+
+The given requirement is: 'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds'
+
+This requirement falls under the category: **Performance**
+
+
+The given requirement is: 'The website shall prevent its data from being corrupted when incorrect data is entered in.'
+
+This requirement falls under the category of: **Security**
+
+
+The requirement is classified as: Maintainability
+
+
+Functional
+
+
 Performance
 
 
 Usability
 
 
-The requirement 'The current repair facility ratings shall be displayed to the user.' falls under the category of **Look and Feel**.
+I would classify the requirement "The current repair facility ratings shall be displayed to the user." as: **Usability**
 
 
 I would classify this requirement as "Usability".
 
 
-I would classify this requirement as: Functional
+Functional
 
 
 The requirement is classified as: Maintainability
@@ -246,40 +248,36 @@ Security
 Functional
 
 
-The requirement "The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language." belongs to the category: Maintainability.
+The requirement is classified as: Maintainability
 
 
-The given requirement is: 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.'
-
-Classification: Maintainability
+The requirement "The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years." falls under the category of Maintainability.
 
 
 Functional
 
 
-The given requirement "The streaming server will support 50 simultaneous streaming connections." falls under the category of **Scalability**.
+Scalability
 
 
-I would classify this requirement as: Usability
+The given requirement: 'The system will display a blank set of ratings if there are not ratings yet defined.'
+
+Category: Usability
 
 
 Performance
 
 
-The requirement is classified as: Performance
+Performance
 
 
-Security
+I would classify this requirement as: Security
 
 
 Legal
 
 
-Based on the given requirement, I would classify it as:
-
-**Maintainability**
-
-The requirement is related to the maintenance and updates of the software, specifically the frequency and duration of maintenance releases offered to customers.
+The given requirement is classified as: Maintainability
 
 
 Usability
@@ -294,25 +292,16 @@ Functional
 Performance
 
 
-The requirement "The audit report shall be displayed to the user." falls under the category of Functional.
+Functional
 
 
-I would classify this requirement as "Usability".
+Usability
 
 
 Functional
 
 
 Functional
-
-
-Functional
-
-
-The given requirement is classified as: Availability
-
-
-I would classify this requirement as "Security".
 
 
 Functional
@@ -321,16 +310,29 @@ Functional
 Operational
 
 
-I would classify the requirement 'Product formula ingredients shall allow defining substitutionary ingredients.' as Functional.
+The given requirement is classified as: Security
+
+
+Functional
+
+
+Operational
+
+
+I would classify this requirement as "Functional".
 
 
 Performance
 
 
-Operational
+The given requirement: 'The leads washing functionality will have an interface in which lead data parameters can be maintained.'
+
+Category: Operational
 
 
-The given requirement is classified as: Maintainability
+The given requirement: 'The System shall be able to automatically backup business data and restore them on demand.'
+
+Category: Maintainability
 
 
 Operational
@@ -339,27 +341,27 @@ Operational
 The given requirement "All additions of new users and modifications to user’s access shall be recorded on the User Report." falls under the category of Maintainability.
 
 
-Functional
+I would classify this requirement as: Functional
 
 
-The given requirement: 'The system shall cater to 10 simultaneous users from 9am to 5pm.'
-
-Classification: Operational
+Scalability
 
 
-The given requirement 'Every user of the system shall be authenticated and authorized.' falls under the category of **Security**.
+The given requirement: 'Every user of the system shall be authenticated and authorized.'
+
+Category: Security
 
 
 Usability
 
 
-The requirement "All letter requests must be formatted according to guidelines specified by the Print Letter Utility system." falls under the category: Operational.
+I would classify this requirement as "Operational".
 
 
 Performance
 
 
-I would classify this requirement as "Availability".
+The requirement is classified as: Operational
 
 
 Security
@@ -371,13 +373,15 @@ Functional
 Functional
 
 
-The requirement is: Security
+The given requirement is: 'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.'
+
+This requirement falls under the category: **Security**
 
 
-The requirement is classified as: Performance
+Performance
 
 
-I would classify the given requirement as: Operational
+I would classify this requirement as: Functional
 
 
 Usability

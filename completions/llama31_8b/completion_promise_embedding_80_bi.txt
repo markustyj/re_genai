@@ -43,33 +43,6 @@ Functional
 Non-functional
 
 
-Non-functional.
-
-
-Functional
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Functional
-
-
 Non-functional
 
 
@@ -88,19 +61,10 @@ Non-functional
 Non-functional
 
 
-Functional
-
-
 Non-functional
 
 
 Non-functional
-
-
-The classification is: Non-functional
-
-
-Functional
 
 
 Functional
@@ -110,6 +74,24 @@ Non-functional
 
 
 Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
 
 
 Non-functional
@@ -133,6 +115,12 @@ Functional
 Non-functional
 
 
+Non-functional
+
+
+Functional
+
+
 Functional
 
 
@@ -140,6 +128,126 @@ Non-functional
 
 
 Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
 
 
 Functional
@@ -151,34 +259,10 @@ Non-functional
 The classification of the given requirement is: Non-functional
 
 
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Non-functional
-
-
-Functional
-
-
-Functional
-
-
 Non-functional
 
 
 Non-functional
-
-
-Functional
 
 
 Non-functional
@@ -191,90 +275,6 @@ Non-functional
 
 
 Functional
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-The classification of the given requirement is: Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Functional
-
-
-Non-functional
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-I would classify this requirement as: Non-functional.
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Functional
-
-
-Non-functional
-
-
-The classification of the given requirement is: Non-functional
-
-
-The classification of the given requirement is: Non-functional.
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-The classification of this requirement is: Functional
 
 
 Non-functional
@@ -298,7 +298,7 @@ Functional
 Non-functional
 
 
-I would classify this requirement as: Non-functional.
+Non-functional
 
 
 Functional
@@ -334,10 +334,10 @@ Non-functional
 Non-functional
 
 
-The classification of this requirement is: Non-functional.
+Non-functional
 
 
-Functional
+Non-functional
 
 
 Non-functional

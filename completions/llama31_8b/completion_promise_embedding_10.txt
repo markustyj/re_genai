@@ -124,7 +124,7 @@ Functional
 Functional
 
 
-Functional
+Usability
 
 
 Usability
@@ -262,7 +262,7 @@ Performance
 Availability
 
 
-Legal
+Security
 
 
 Maintainability

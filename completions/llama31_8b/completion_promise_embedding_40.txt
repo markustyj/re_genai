@@ -13,7 +13,7 @@ Look and Feel
 Operational
 
 
-Look and Feel
+Usability
 
 
 Functional
@@ -127,7 +127,7 @@ Functional
 Usability
 
 
-Functional
+Operational
 
 
 Maintainability
@@ -175,7 +175,7 @@ Functional
 Look and Feel
 
 
-Operational
+Security
 
 
 Functional
@@ -226,7 +226,7 @@ Look and Feel
 Functional
 
 
-The requirement "The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff." belongs to the category: Maintainability
+Maintainability
 
 
 Scalability
@@ -316,13 +316,13 @@ Performance
 Functional
 
 
-Availability
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand.' falls under the category of: Fault Tolerance
 
 
 Functional
 
 
-Functional
+Security
 
 
 Functional

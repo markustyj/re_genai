@@ -127,12 +127,6 @@ Functional
 Functional
 
 
-Non-functional
-
-
-Non-functional
-
-
 Functional
 
 
@@ -142,12 +136,6 @@ Non-functional
 Functional
 
 
-Functional
-
-
-Non-functional
-
-
 Non-functional
 
 
@@ -155,6 +143,12 @@ Functional
 
 
 Functional
+
+
+Non-functional
+
+
+Non-functional
 
 
 Functional
@@ -175,46 +169,7 @@ Functional
 Functional
 
 
-Non-functional
-
-
 Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Non-functional
-
-
-Functional
-
-
-Non-functional
-
-
-Non-functional
 
 
 Functional
@@ -224,6 +179,9 @@ Non-functional
 
 
 Functional
+
+
+Non-functional
 
 
 Non-functional
@@ -265,6 +223,48 @@ Functional
 Non-functional
 
 
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
 Non-functional
 
 
@@ -283,7 +283,7 @@ Non-functional
 Functional
 
 
-Non-functional
+Functional
 
 
 Functional

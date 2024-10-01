@@ -1,22 +1,22 @@
 Functional
 
 
-Functional
-
-
-Operational
-
-
-Functional
-
-
-Operational
-
-
 Look and Feel
 
 
+Operational
+
+
+Functional
+
+
+Operational
+
+
 Usability
+
+
+Functional
 
 
 Scalability
@@ -28,7 +28,7 @@ Operational
 Functional
 
 
-Look and Feel
+Legal
 
 
 Performance
@@ -76,7 +76,7 @@ Security
 Functional
 
 
-Security
+Functional
 
 
 Usability
@@ -85,7 +85,7 @@ Usability
 Performance
 
 
-Performance
+Functional
 
 
 Functional
@@ -115,7 +115,7 @@ Functional
 Operational
 
 
-Performance
+Functional
 
 
 Usability
@@ -124,13 +124,13 @@ Usability
 Functional
 
 
-Usability
+Functional
 
 
 Operational
 
 
-Portability
+Maintainability
 
 
 Functional
@@ -163,28 +163,13 @@ Functional
 Functional
 
 
-Functional
-
-
-Functional
-
-
-Security
-
-
 Look and Feel
 
 
-Operational
-
-
 Functional
 
 
-Operational
-
-
-Security
+Functional
 
 
 Look and Feel
@@ -196,7 +181,22 @@ Functional
 Functional
 
 
-Availability
+Operational
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Performance
 
 
 Performance
@@ -205,7 +205,7 @@ Performance
 Security
 
 
-Security
+Usability
 
 
 Functional
@@ -229,43 +229,13 @@ Functional
 Maintainability
 
 
-Scalability
-
-
-Security
-
-
-Functional
-
-
-Portability
-
-
-Scalability
-
-
-Functional
-
-
-Scalability
-
-
-Functional
-
-
-Performance
-
-
 Performance
 
 
 Security
 
 
-Legal
-
-
-Availability
+Functional
 
 
 Usability
@@ -277,67 +247,13 @@ Scalability
 Functional
 
 
-Performance
-
-
-Functional
-
-
-Usability
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Availability
-
-
-Security
-
-
-Functional
-
-
-Operational
-
-
-Functional
-
-
-Performance
-
-
-Functional
-
-
-Availability
-
-
-Functional
-
-
-Security
-
-
-Functional
-
-
 Scalability
 
 
-Security
+Functional
 
 
-Usability
-
-
-Legal
+Performance
 
 
 Performance
@@ -349,13 +265,97 @@ Operational
 Security
 
 
+Performance
+
+
+Usability
+
+
+Scalability
+
+
 Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Maintainability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Performance
+
+
+Look and Feel
+
+
+Operational
 
 
 Functional
 
 
 Security
+
+
+Functional
+
+
+Scalability
+
+
+Security
+
+
+Usability
+
+
+Look and Feel
+
+
+Performance
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Performance
 
 
 Performance

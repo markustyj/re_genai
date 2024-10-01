@@ -7,13 +7,13 @@ Functional
 Functional
 
 
-Functional.
+Functional
 
 
 Functional
 
 
-Usability
+Look and Feel
 
 
 Functional
@@ -31,7 +31,6 @@ Functional
 Here is the classification:
 
 * Legal
-* Look and Feel
 
 
 Performance
@@ -127,7 +126,7 @@ Usability
 Functional
 
 
-Usability
+Functional
 
 
 Here are the classifications:
@@ -139,7 +138,7 @@ Here are the classifications:
 Functional
 
 
-Functional.
+Functional
 
 
 Usability
@@ -175,7 +174,7 @@ Functional
 Functional
 
 
-Usability
+Functional
 
 
 Look and Feel
@@ -202,7 +201,7 @@ Functional
 Functional
 
 
-Operational
+Performance
 
 
 Performance
@@ -312,10 +311,10 @@ Functional
 
 Here are the classifications:
 
-* "The RFS system should be able to easily interface with the BDW environment in order to load the data." -> Functional
-* "7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year." -> Operational
-* "The data will be as of October month-end." -> Functional
-* "Test files (7) shall be loaded up to 5 times throughout the year from the BDW." -> Functional
+* "The RFS system should be able to easily interface with the BDW environment in order to load the data." - Functional
+* "7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year." - Performance
+* "The data will be as of October month-end." - Functional
+* "Test files (7) shall be loaded up to 5 times throughout the year from the BDW." - Functional
 
 
 Functional
@@ -333,7 +332,7 @@ Functional
 Functional
 
 
-Operational
+Functional
 
 
 Functional
@@ -366,7 +365,7 @@ Functional
 Functional
 
 
-Functional
+Performance
 
 
 Performance

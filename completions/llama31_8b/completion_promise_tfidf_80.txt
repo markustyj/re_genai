@@ -1,7 +1,7 @@
 Functional
 
 
-Functional
+Look and Feel
 
 
 Operational
@@ -16,7 +16,7 @@ Operational
 Look and Feel
 
 
-Usability
+Functional
 
 
 Scalability
@@ -76,78 +76,117 @@ Security
 Functional
 
 
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+The requirement "The system shall offer the ability to pause and resume the refresh of data" falls under the category of **Operational**.
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement is classified under the category: Usability
+
+
+The given requirement is classified as: Maintainability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+The requirement "The Disputes System must be accessible by both internal and external users" falls under the category of "Security".
+
+
+Functional
+
+
+Operational
+
+
 Security
 
 
-Usability
-
-
-Performance
-
-
-Performance
-
-
-Functional
-
-
-Look and Feel
-
-
-Usability
-
-
-Performance
-
-
-Functional
-
-
-Functional
-
-
-Look and Feel
-
-
-Functional
-
-
-Operational
-
-
-Performance
-
-
-Usability
-
-
-Functional
-
-
-Usability
-
-
-Operational
-
-
-Portability
-
-
-Functional
-
-
-Usability
-
-
-Functional
-
-
-Functional
-
-
-Performance
-
-
 Look and Feel
 
 
@@ -157,37 +196,99 @@ Functional
 Functional
 
 
-Functional
+Performance
 
 
-Functional
-
-
-Functional
-
-
-Functional
+Performance
 
 
 Security
 
 
-Look and Feel
-
-
-Operational
+The given requirement is classified under the category: Usability
 
 
 Functional
 
 
-Operational
+Performance
+
+
+Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+The given requirement is classified under the category: Maintainability
+
+
+Scalability
 
 
 Security
 
 
-Look and Feel
+Functional
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+The given requirement: 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.'
+
+Classification: Availability
+
+
+Security
+
+
+Performance
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
 
 
 Functional
@@ -199,106 +300,7 @@ Functional
 Availability
 
 
-Performance
-
-
-Security
-
-
-Security
-
-
-Functional
-
-
-Performance
-
-
-Usability
-
-
-Functional
-
-
-Look and Feel
-
-
-Functional
-
-
-Maintainability
-
-
-Scalability
-
-
-Security
-
-
-Functional
-
-
-Portability
-
-
-Scalability
-
-
-Functional
-
-
-Scalability
-
-
-Functional
-
-
-Performance
-
-
-Performance
-
-
-Security
-
-
-Legal
-
-
-Availability
-
-
-Usability
-
-
-Scalability
-
-
-Functional
-
-
-Performance
-
-
-Functional
-
-
-Usability
-
-
-Functional
-
-
-Functional
-
-
-Functional
-
-
-Availability
-
-
-Security
+The given requirement is classified as: Security
 
 
 Functional
@@ -316,7 +318,7 @@ Performance
 Functional
 
 
-Availability
+The requirement 'The System shall be able to automatically backup business data and restore them on demand.' falls under the category of Maintainability.
 
 
 Functional
@@ -331,19 +333,19 @@ Functional
 Scalability
 
 
-Security
+The given requirement "Every user of the system shall be authenticated and authorized." falls under the category of **Security**.
 
 
 Usability
 
 
-Legal
+Operational
 
 
 Performance
 
 
-Operational
+The given requirement is classified as: Availability
 
 
 Security
@@ -355,7 +357,7 @@ Functional
 Functional
 
 
-Security
+Performance
 
 
 Performance

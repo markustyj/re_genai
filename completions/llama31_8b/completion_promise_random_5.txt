@@ -1,13 +1,13 @@
 Functional
 
 
-Functional
+Performance
+
+
+Operational
 
 
 Functional
-
-
-Look and Feel
 
 
 Portability
@@ -16,7 +16,7 @@ Portability
 Look and Feel
 
 
-Functional
+Usability
 
 
 Performance
@@ -169,7 +169,7 @@ Functional
 Functional
 
 
-Usability
+Functional
 
 
 Look and Feel
@@ -227,21 +227,21 @@ Functional
 
 
 Portability
+
+
+Performance
+
+
+Security
+
+
+Functional
+
+
+Operational
 
 
 Scalability
-
-
-Security
-
-
-Functional
-
-
-Scalability
-
-
-Operational
 
 
 Usability
@@ -271,7 +271,7 @@ Operational
 Usability
 
 
-Performance
+Scalability
 
 
 Functional

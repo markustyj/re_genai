@@ -1,22 +1,22 @@
 Functional
 
 
-Functional
-
-
-Operational
-
-
-Functional
-
-
-Operational
-
-
 Look and Feel
 
 
+Operational
+
+
+Functional
+
+
+Operational
+
+
 Usability
+
+
+Functional
 
 
 Scalability
@@ -76,7 +76,7 @@ Security
 Functional
 
 
-Security
+Functional
 
 
 Usability
@@ -85,7 +85,7 @@ Usability
 Performance
 
 
-Performance
+Functional
 
 
 Functional
@@ -124,13 +124,13 @@ Usability
 Functional
 
 
+Functional
+
+
 Usability
 
 
-Operational
-
-
-Portability
+Maintainability
 
 
 Functional
@@ -163,30 +163,6 @@ Functional
 Functional
 
 
-Functional
-
-
-Functional
-
-
-Security
-
-
-Look and Feel
-
-
-Operational
-
-
-Functional
-
-
-Operational
-
-
-Security
-
-
 Look and Feel
 
 
@@ -196,7 +172,31 @@ Functional
 Functional
 
 
-Availability
+Look and Feel
+
+
+Security
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Performance
 
 
 Performance
@@ -205,7 +205,7 @@ Performance
 Security
 
 
-Security
+Usability
 
 
 Functional
@@ -238,7 +238,7 @@ Security
 Functional
 
 
-Portability
+Usability
 
 
 Scalability
@@ -257,15 +257,15 @@ Performance
 
 
 Performance
+
+
+Availability
 
 
 Security
 
 
-Legal
-
-
-Availability
+Performance
 
 
 Usability
@@ -337,7 +337,7 @@ Security
 Usability
 
 
-Legal
+Look and Feel
 
 
 Performance
@@ -355,7 +355,7 @@ Functional
 Functional
 
 
-Security
+Performance
 
 
 Performance

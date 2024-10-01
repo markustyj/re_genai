@@ -13,7 +13,7 @@ Functional
 Operational
 
 
-Usability
+Look and Feel
 
 
 Functional
@@ -304,7 +304,7 @@ Maintainability
 Functional
 
 
-Operational
+Functional
 
 
 Functional
@@ -337,7 +337,7 @@ Security
 Usability
 
 
-Look and Feel
+Functional
 
 
 Performance

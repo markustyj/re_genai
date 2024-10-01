@@ -259,7 +259,7 @@ Non-functional
 Non-functional
 
 
-Functional
+Non-functional
 
 
 Functional
