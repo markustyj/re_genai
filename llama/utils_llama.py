@@ -36,7 +36,7 @@ def get_completion_list(pipeline, prompt_list):
     for i, prompt in enumerate(prompt_list): 
         #print ("{}th prompt: ".format(i) + prompt + "\n######")
         completion = get_completion (pipeline, prompt)
-        #print(completion)
+        print(i, completion)
         #print("\n######")
         completion_list.append(completion)
     end_time = time.time()  
@@ -57,6 +57,8 @@ def save_completion_list(path, completion_list):
                 file.write(completion)
             else:     
                 file.write(completion + "\n\n\n")
+
+    print("### save" + path)            
 
 
 
