@@ -387,55 +387,55 @@ pipe = pipeline(
 # path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_20.txt'
 # save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_40.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_40.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_40.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_40.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_80.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_80.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_80.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_80.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_160.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_160.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_embedding_160.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_embedding_160.txt'
+# save_completion_list(path, completion_list)
 
-################# nfr multi-class tfidf
+# ################# nfr multi-class tfidf
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_0.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_0.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_0.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_0.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_5.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_5.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_5.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_5.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_10.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_10.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_10.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_10.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_20.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_20.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_20.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_20.txt'
+# save_completion_list(path, completion_list)
 
-path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_40.txt'
-prompt_list = read_prompt_list(path)
-completion_list = get_completion_list(pipe, prompt_list)
-path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_40.txt'
-save_completion_list(path, completion_list)
+# path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_40.txt'
+# prompt_list = read_prompt_list(path)
+# completion_list = get_completion_list(pipe, prompt_list)
+# path = '/home/z004r5cc/re_genai/completions/llama31_8b/completion_nfr_tfidf_40.txt'
+# save_completion_list(path, completion_list)
 
 path = '/home/z004r5cc/re_genai/processed_prompts/prompt_nfr_tfidf_80.txt'
 prompt_list = read_prompt_list(path)
