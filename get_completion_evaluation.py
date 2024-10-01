@@ -51,9 +51,10 @@ def get_evaluation_results(ground_truth, processed_completion_list):
     f1 = f1_score(ground_truth, processed_completion_list, average='macro')  
     
     # Print the results  
+    print("F1 Score:", f1 )  
     print("Precision:", precision)  
-    print("Recall:", recall)  
-    print("F1 Score:", f1, "\n###########\n\n")  
+    print("Recall:", recall, "\n###########\n\n")  
+
 
     #return precision, recall, f1
 
