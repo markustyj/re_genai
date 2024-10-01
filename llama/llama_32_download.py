@@ -10,6 +10,9 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # import nltk
 # nltk.download('punkt')
 
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "2"  #"1"  or "0,1" for multiple GPUs
+
 import torch
 from transformers import pipeline
 from utils_llama import read_prompt_list, get_completion_list, save_completion_list
