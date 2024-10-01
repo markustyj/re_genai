@@ -1,0 +1,741 @@
+Functional
+ 
+The requirement is related to the functionality of the system, specifically its ability to display a printable summary for individual cohorts.
+
+
+Functional
+The requirement is related to the functionality of the product, specifically simulating the sound of a sinking ship.
+
+
+Functional
+The requirement is related to the functionality of the system, specifically its ability to interact with a central server.
+
+
+Functional
+ 
+I would classify the given requirement as Functional.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+The requirement is related to user interaction and functionality, which falls under the category of Functional requirements.
+
+
+Here are the classifications:
+
+1. 'The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, specifically the payment process for a streaming movie.
+
+
+Here are the classifications:
+
+1. 'The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.': Non-functional
+
+2. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+
+9. 'The product shall allow the user to save the property search results.': Functional
+
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+
+Functional
+ 
+I have classified the given software requirements into functional and non-functional requirements.
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.': Non-functional
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+Classification: Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+I would classify the given requirement as Functional.
+
+
+Functional
+The product shall update existing conference rooms.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+This requirement is related to the functionality of the software, specifically how it should be used to achieve a specific goal.
+
+
+Functional: All customer information will be stored on a secure database accessible only to authorized personnel.
+
+Non-functional: Non-functional
+
+
+Functional
+ 
+The given requirement is related to the functionality of the system, specifically how students are assigned to a cohort and eligible for a program of study.
+
+
+Here are the classifications:
+
+1. 'The product shall ensure that only supervisors can advertise empty time slots.': Functional
+2. 'The product must ensure that supervisors are allowed to access advertise empty time slots.': Non-functional
+
+
+Functional
+ 
+I have classified the given requirement into Functional as it is describing a specific functionality that the system should provide.
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.': Non-functional
+
+
+Functional
+ 
+The requirement 'The system shall refresh the display every 60 seconds' is related to the functionality of the system, which is to provide a continuous display of information.
+
+
+Functional
+ 
+This requirement is related to the functionality of the system, specifically the functionality of streaming movies.
+
+
+Functional
+The system shall display Events or Activities.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, specifically the search functionality.
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, specifically how it should display data.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, specifically the ability to pause and resume the refresh of data.
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+Now, let's classify the given requirement:
+
+11. 'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.': Non-functional
+
+
+Functional
+ 
+The given requirement is related to the functionality of the product, specifically its ability to retain customer's buying preferences and information.
+
+
+Here are the classifications:
+
+1. 'The product shall provide Portals.' - Functional
+2. 'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)': Non-functional
+3. 'Portals' is a functional requirement as it is a feature that the product should provide.
+4. 'ad-hoc reporting and KPIs (Key Performance Indicators)' - Non-functional
+5. 'ad-hoc reporting' is a functional requirement as it is a feature that the product should provide.
+6. 'KPIs (Key Performance Indicators)' - Non-functional
+7. 'Key Performance Indicators' is a functional requirement as it is a feature that the product should provide.
+8. 'System Administrators' - Non-functional
+9. 'System Administrators' is a non-functional requirement as it is a group of users who need to be supported by the product, but it is not a specific feature or functionality.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training': Functional
+
+
+Functional
+ 
+I would classify the given requirement as Functional.
+
+
+Functional
+ 
+The given requirement is related to the functionality of the product, specifically its ability to continue assigning turns until the game is ended.
+
+
+Functional
+ 
+The given requirement is related to the functionality of the product, which is to respond fast to keep up-to-date data in the display.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional: Program of Study
+Non-functional: Description
+
+
+Functional
+ 
+The given requirement is related to the functionality of the product, which is to display room equipment according to search parameters.
+
+
+Functional
+ 
+This requirement falls under the category of 'Product' as it describes a feature that is part of a product, in this case, a vehicle.
+
+
+Functional
+Non-functional
+
+
+Functional
+The adjuster shall review the collision estimate.
+
+
+Functional
+ 
+The user shall select to view the preferred repair facility ratings.
+
+
+Functional
+Non-functional
+
+
+Functional: The Disputes System must be accessible by both internal and external users.
+
+Non-functional: Non-functional
+
+
+Functional
+ 
+I have classified the given requirement into Functional as it is describing a specific action or capability that the software should provide.
+
+
+Functional
+Non-functional
+
+
+Functional: One insurance company shall not be able to view another insurance companys claim data.
+
+Non-functional: Non-functional
+
+
+Functional or Non-functional requirement
+
+Functional
+
+
+Functional
+ 
+This requirement is related to the functionality of the software, specifically the search functionality.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The given requirement is related to the functionality of the product, which is to process messages within a specified time frame.
+
+
+Functional: 
+Non-functional: 
+This requirement is related to the functionality of the system, specifically the prevention of data corruption when incorrect data is entered.
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+This requirement falls under the category of 'Product' as it describes a specific feature or functionality of the product.
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.': Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.': Non-functional
+
+
+Functional
+ 
+The given requirement is related to the functionality of the system, specifically the display of current repair facility ratings to the user.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+Classification: Functional
+
+
+Functional
+The requirement is related to the functionality of the product, specifically its ability to store new room equipment.
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+ 
+This requirement is related to the functionality of the system, specifically its ability to manage the nursing program curriculum and class/clinical scheduling.
+
+
+Functional: 
+Non-functional: 
+Non-functional: 
+Functional: 
+Non-functional: 
+Non-functional: 
+Non-functional: 
+Functional: 
+Non-functional:
+
+
+Functional
+ 
+The requirement is related to the functionality of the software, specifically the ability to support multiple simultaneous connections.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional: Purge
+Non-functional: Purge
+
+
+Functional: 
+Non-functional: 
+Non-functional: 
+Functional: 
+Non-functional: 
+Non-functional: 
+Non-functional: 
+Functional:
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+The requirement is related to the functionality of the product, specifically its ability to support a certain number of users.
+
+
+Functional
+ 
+I have classified the given software requirements into Functional and Non-functional requirements.
+
+
+Functional
+ 
+The given requirement is related to the functionality of the system, specifically the login functionality for existing customers.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The requirement is related to the functionality of the software, which is a non-functional requirement.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+I would classify the given requirement as Functional.
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+Classification: Functional
+
+
+Functional
+ 
+I would classify the given requirement as Functional.
+
+
+Functional
+ 
+This requirement is related to the functionality of the software system, specifically its performance and responsiveness.
+
+
+Functional
+ 
+The requirement is related to the functionality of the software, which is a functional requirement.
+
+
+Functional
+ 
+The given requirement is related to the functionality of the system, which is to perform an automatic backup and restore of business data.
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, specifically the lead washing functionality.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+The requirement is related to the functionality of the system, which is to cater to a specific number of users within a certain time frame.
+
+
+Functional
+ 
+This requirement falls under the Functional category as it describes a specific functionality of the system, which is to authenticate and authorize users.
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.': Functional
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.': Non-functional
+
+
+Functional: Application updates
+Non-functional: Time zone
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+This requirement is related to the functionality of the software system, specifically the ability of Program Administrators/Nursing Staff Members to modify information within the Nursing Department.
+
+
+Functional
+Non-functional
+
+
+Here are the classifications:
+
+1. 'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+2. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+3. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+4. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+5. 'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+6. 'The website shall be capable of supporting 100 000 customers.': Non-functional
+7. 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.': Non-functional
+8. 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.': Non-functional
+9. 'The product shall allow the user to save the property search results.': Functional
+10. 'The product must be able to interface with various email servers. The product shall be able to send email.': Non-functional
+
+11. 'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.': Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+This requirement falls under the Functional category as it describes a specific functionality that needs to be implemented within the system.
+
+
+Functional
+ 
+This requirement is related to the functionality of the system, specifically the ability of certain users to manage scheduling.

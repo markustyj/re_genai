@@ -1,0 +1,523 @@
+Functional Requirement: 
+'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+
+Non-Functional Requirement: 
+'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+
+Non-Functional Requirement: 
+'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Non-functional
+
+Non-Functional Requirement: 
+'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+
+Non-Functional Requirement: 
+'If a user account is revoked it can only be re-instantiated by the System Administrator.': Non-functional
+
+Functional Requirement: 
+'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.': Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional Requirement: Player Identification
+Non-functional Requirement: Authentication
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional Requirement: 
+'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.': Functional
+
+Non-functional Requirement: 
+'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': Non-functional
+
+Functional Requirement: 
+'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.': Functional
+
+Non-functional Requirement: 
+'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Non-functional
+
+Functional Requirement: 
+'If a user account is revoked it can only be re-instantiated by the System Administrator.': Functional
+
+Non-functional Requirement: 
+'System will allow customers to pay for a streaming movie with a pre-paid card.': Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+ 
+I have classified the given requirement into Functional requirement as it describes a specific functionality or process that needs to be implemented within the software system.
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 
+Non-functional Requirement:
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: Consistent Verbiage
+Non-functional Requirement: Standard English and National Nursing Community Terminology
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 'The product should be able to be used by 90% of novice users on the Internet.'
+
+Non-functional Requirement: 'The product should be able to be used by 90% of novice users on the Internet.'
+
+
+Functional
+ 
+I have classified the given requirement into Functional requirement as it is describing a specific functionality of the software system.
+
+
+Functional Requirement: 
+Non-functional Requirement:
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 'The product shall make the users want to use it.'
+
+Non-functional Requirement: '80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.'
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 'The owner shall have free access to all of the streaming movies.'
+
+Non-functional Requirement: 'If a user account is revoked it can only be re-instantiated by the System Administrator.'
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional Requirement: 
+'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.'
+
+Non-functional Requirement: 
+'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.'
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study' 
+
+Non-functional Requirement: 
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study'
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Error Tracking Services
+
+
+Functional Requirement: 
+Non-functional Requirement:
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional Requirement: 
+Non-functional Requirement:
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.
+
+
+Functional Requirement: 1000 Simultaneous Users
+Non-functional Requirement: Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: All streaming movie sales will be logged in the database and accessible by the administrator.
+
+Non-functional Requirement: All streaming movie sales will be logged in the database and accessible by the administrator.
+
+
+Functional
+ 
+The given requirement is related to the functionality of the system, which is to cater to a specific number of users within a certain time frame.
+
+
+Functional Requirement: Authentication and Authorization
+Non-functional Requirement: Security
+
+
+Functional
+Non-functional
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional
+ 
+I have classified the given requirement into Functional as it is describing a specific functionality of the software system.
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional Requirement: 
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.'
+
+Non-functional Requirement: 
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.'
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+Non-functional
+
+
+Functional
+
+
+Functional Requirement: 2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+
+Non-functional Requirement: 2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
