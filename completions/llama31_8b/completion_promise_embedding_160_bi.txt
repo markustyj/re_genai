@@ -1,0 +1,373 @@
+Functional
+
+
+Non-functional
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+The answer is: Non-functional.
+
+
+The answer is: Non-functional.
+
+
+Non-functional
+
+
+The classification is: Functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The classification is: Non-functional
+
+
+Non-functional.
+
+
+**Non-functional**
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+The given requirement is: "The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes."
+
+This requirement is classified as: **Non-functional**
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+The answer is: Functional
+
+
+Non-functional.
+
+
+The answer is: Functional
+
+
+Functional
+
+
+The classification of this requirement is: Functional
+
+
+Non-functional
+
+
+Functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Functional
+
+
+**Non-functional**
+
+
+Functional
+
+
+Functional
+
+
+I would classify the given requirement as: Non-functional
+
+
+The answer is: Non-functional.
+
+
+Functional
+
+
+Functional
+
+
+The answer is: Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+The answer is: Non-functional.
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+Non-functional.
+
+
+Non-functional
+
+
+Non-functional.
+
+
+The classification of this requirement is: Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional.
+
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional.
+
+
+The classification is: Functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Functional
+
+
+Non-functional.
+
+
+Functional
+
+
+The answer is: Non-functional
+
+
+The classification of this requirement is: Non-functional.
+
+
+The classification of the given requirement is: **Non-functional**.
+
+
+Functional
+
+
+The answer is: Non-functional
+
+
+**Non-functional**
+
+
+The classification is: Functional
+
+
+The answer is: Non-functional
+
+
+The given requirement is: 'The system will display a blank set of ratings if there are not ratings yet defined.'
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Non-functional
+
+
+Non-functional.
+
+
+Non-functional.
+
+
+Non-functional.
+
+
+Non-functional
+
+
+Functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional.
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+The given requirement is a **Non-functional requirement**.
+
+The requirement mentions the system's ability to interface with another system (BDW) and load data, which is a functional requirement. However, the additional constraints such as "within 3 hours", "one day prior to the start of budgeting process every year", and "test files shall be loaded up to 5 times throughout the year" are non-functional requirements, as they specify performance, availability, and usability aspects of the system.
+
+
+The answer is: Functional
+
+
+Non-functional.
+
+
+The answer is: Functional
+
+
+Non-functional.
+
+
+Functional
+
+
+The classification of the given requirement is: Functional
+
+
+The classification is: Non-functional
+
+
+Non-functional
+
+
+The answer is: Non-functional
+
+
+Functional
+
+
+Non-functional.
+
+
+Non-functional
+
+
+Non-functional
+
+
+The answer is: Non-functional.
+
+
+Functional
+
+
+Functional
+
+
+The answer is: Functional
+
+
+The answer is: Non-functional
+
+
+The answer is: Functional
+
+
+The answer is: Non-functional
