@@ -187,113 +187,73 @@ Availability
 Here are the classifications:
 
 1. whats the exact rule in function declaration in c++: Performance
-2. What happens in C++ if a function return value is passed to a function reference argument?: Performance
-3. How can I portably call a C++ function that takes a char** on some platforms and a const char** on others?: Portability
-4. write a function that receives a list of strings and return list of lists: Performance
-5. Why is it important for C / C++ Code to be compilable on different compilers?: Portability
-6. Why does C++ parameter scope affect function lookup within a namespace?: Portability
-7. Evaluation of function in python list comprehension action step and condition at the same time: Performance
-8. I am trying to solve the following problem using C++: Performance
-9. is it good practice to create functions which use other functions that you built?: Portability
-10. Best way to create a setter function in C++: Performance
-11. Why doesn't the C++ STL implement more efficient std::set implementation?: Performance
-12. How would I rewrite the for statements in this function to be more performant?: Performance
-13. Why allocate_at_least() in C++23?: Performance
-14. How to memoize or make recursive function with no apparent pattern?: Performance
-15. Should I declare a number as constant if it is passed as a parameter to a meaningful named function?: Maintainability
-16. Conditionally enable non-template function c++: Portability
-17. How does "?" makes a function shorter. (C++?) [duplicate]: Performance
-18. Best Practise and Semantics of namespace nested functions and the use of extern "C": Portability
-19. Not using functions for speed? (C++): Performance
-20. Which is more conventional function name between "ContainsElement" and "DoesContainElement"? [closed]: Maintainability
-21. Is it possible to portably define a function that accepts any number of arguments?: Portability
-22. Is there an elegant way of checking in C++ if the library complex was included?: Portability
-23. List of things that cant be portably(Win/Linux) implemented with C++11 +Boost? [closed]: Portability
-24. Is there a smart way to parrallelize complex functions on ndarray?: Performance
-25. Does declaring local method variables for error handling come at memory or performance cost in C++?: Performance
-26. _Pragma preprocessor operator in Visual C++: Portability
-27. Test Availability of x_np pthread Functions - C/C++: Portability
-28. checked_array_iterator<T> in C++11: Portability
-29. What is a generic and portable way to get at underlying bits of a type in C++?: Portability
-30. How to show that function belongs to a typedef in C?: Maintainability
-31. Measure time for function-runtime in tests with compiler optimization in c++: Performance
-32. Portable way to print function pointers?: Portability
-33. When I run the program in DevC++ 5.11 TDM-GCC 4.9.2 doesn't work how I expect, but in an online compiler it just works [duplicate]: Performance
-34. Which is less performant? defining and calling a default blank function vs type checking if the function exists before calling it: Performance
-35. Example of getting C++ call stack on Windows: Fault Tolerance
-36. How to achieve Tensorflow Python model() (__call__) performance in C(++) API for small inputs?: Performance
-37. How do I programmatically check memory use in a fairly portable way? (C/C++): Portability
-38. Does someone know a C compiler which does not rely on gcc? [closed]: Portability
-39. Do nested functions of Javscript get defined everytime the nesting functions get called?: Performance
-40. Passing a single argument list to two v*printf() calls: Portability
-41. Declare object before pass by reference to a function, or create object in the function and return it [duplicate]: Performance
-42. Numpy efficient computation of B := v[0] * h(u[0] * A) +... + v[k-1] * h(u[k-1] * A), where u and v are 1d arrays and A is a 2d array: Performance
-43. Understanding an odd looking C++ for loop?: Performance
-44. How to apply a function that depends on current array elements and return result to current array elements: Performance
-45. Better/More Portable Method of Defining PI in C/C++?: Portability
-46. In C++, which one is faster? taking input, storing in array and adding simultaneously or taking input and storing as array and later summing up?: Performance
-47. C++ use string literal length value determined at compile time: Performance
-48. Should I use an array of pointers or a PFRelation? (parse.com): Scalability
-49. Is there a better way to find index of an element without using list built-in functions?: Performance
-50. Can you run a function on initialization in c?: Portability
-51. I am having trouble with user defined functions: Performance
-52. How can I made constructor point In ECC.? (plz help): Security
-53. How to write portable code in c++?: Portability
-54. Do you know more efficient way to create this python list?: Performance
-55. How to link old C code with reserved keywords in it with C++?: Portability
-56. What features of C++ are not compatible with compilers other than Visual Studio?: Portability
-57. How to design a C / C++ library to be usable in many client languages? [closed]: Portability
-58. generate a new piecewise function based on a number of piecewise functions in python: Performance
-59. Pros and Cons of implementing dynamic data structures as array in C? [closed]: Performance
-60. Is there a way to use a particular C function/symbol as output by nm: Security
-61. Is isnan in the std:: namespace? More in general, when is std:: necessary, optional or to be avoided?: Portability
-62. C++: Is there a standard definition for end-of-line in a multi-line string constant?: Portability
-63. How to replace new Function (string) constructors with simple functions: Security
-64. Most efficient paradigm for checking if a key exists in a c++ std::unordered_map?: Performance
-65. Are compilers smart enough to optimize functors with members the same as static method arguments?: Portability
-66. What is the time complexity of this function? is it n*log(n)? [duplicate]: Performance
-67. C99: compiler optimizations when accessing global variables and aliased memory pointers: Performance
-68. Is ISO C++ code directly compilable in C++/CLI? [duplicate]: Portability
-69. Efficiently calculate mean in a large C++ array: Performance
-70. Which data type to be used for a "generic" function pointer?: Portability
-71. C++ Compilation Standard for “&” vs “&&” Expressions?: Performance
-72. Are variables inside functions destroyed and re-initialized everytime the function is called?: Performance
-73. If I call a function that contains a for loop inside a for loop, is that considered O(n^2) time or O(n)?: Performance
-74. Declaring variables and functions, in what order?: Maintainability
-75. How to find out in source code the function names the Xcode's otool outputs for you?: Security
-76. What is a clean way to have a Python function execute in different modes bases on string input: Maintainability
-77. Whether to pass shared pointer or raw pointer to a function: Performance
-78. about efficiency of std::cout in c++ and alternative ways to print message: Performance
-79. Why does adding an "if" to a C++ code make it significantly faster?: Performance
-80. Why does the second call of the same function execute forever?: Performance
-81. How to design a C++ function that can be used with different types of data?: Portability
-82. Is there a way to make a function in C++ that can be used with different types of data?: Portability
-83. How to make a function in C++ that can be used with different types of data?: Portability
-84. How to make a function in C++ that can be used with different types of data?: Portability
-85. How to make a function in C++ that can be used with different types of data?: Portability
-86. How to make a function in C++ that can be used with different types of data?: Portability
-87. How to make a function in C++ that can be used with different types of data?: Portability
-88. How to make a function in C++ that can be used with different types of data?: Portability
-89. How to make a function in C++ that can be used with different types of data?: Portability
-90. How to make a function in C++ that can be used with different types of data?: Portability
-91. How to make a function in C++ that can be used with different types of data?: Portability
-92. How to make a function in C++ that can be used with different types of data?: Portability
-93. How to make a function in C++ that can be used with different types of data?: Portability
-94. How to make a function in C++ that can be used with different types of data?: Portability
-95. How to make a function in C++ that can be used with different types of data?: Portability
-96. How to make a function in C++ that can be used with different types of data?: Portability
-97. How to make a function in C++ that can be used with different types of data?: Portability
-98. How to make a function in C++ that can be used with different types of data?: Portability
-99. How to make a function in C++ that can be used with different types of data?: Portability
-100. How to make a function in C++ that can be used with different types of data?: Portability
+2. write a function that receives a list of strings and return list of lists: Performance
+3. Evaluation of function in python list comprehension action step and condition at the same time: Performance
+4. I am trying to solve the following problem using C++: Performance
+5. Best way to create a setter function in C++: Performance
+6. Why doesn't the C++ STL implement more efficient std::set implementation?: Performance
+7. How would I rewrite the for statements in this function to be more performant?: Performance
+8. Why allocate_at_least() in C++23?: Performance
+9. How to memoize or make recursive function with no apparent pattern?: Performance
+10. How does "?" makes a function shorter. (C++?) [duplicate]: Performance
+11. Is it possible to portably define a function that accepts any number of arguments?: Portability
+12. Is there an elegant way of checking in C++ if the library complex was included?: Portability
+13. Is there a smart way to parrallelize complex functions on ndarray?: Performance
+14. Does declaring local method variables for error handling come at memory or performance cost in C++?: Performance
+15. Measure time for function-runtime in tests with compiler optimization in c++: Performance
+16. Which is less performant? defining and calling a default blank function vs type checking if the function exists before calling it: Performance
+17. How to achieve Tensorflow Python model() (__call__) performance in C(++) API for small inputs?: Performance
+18. How do I programmatically check memory use in a fairly portable way? (C/C++): Portability
+19. Does someone know a C compiler which does not rely on gcc? [closed]: Portability
+20. Do nested functions of Javscript get defined everytime the nesting functions get called?: Performance
+21. Passing a single argument list to two v*printf() calls: Portability
+22. Declare object before pass by reference to a function, or create object in the function and return it [duplicate]: Performance
+23. Numpy efficient computation of B := v[0] * h(u[0] * A) +... + v[k-1] * h(u[k-1] * A), where u and v are 1d arrays and A is a 2d array: Performance
+24. Understanding an odd looking C++ for loop?: Performance
+25. How to apply a function that depends on current array elements and return result to current array elements: Performance
+26. In C++, which one is faster? taking input, storing in array and adding simultaneously or taking input and storing as array and later summing up?: Performance
+27. C++ use string literal length value determined at compile time: Performance
+28. Should I use an array of pointers or a PFRelation? (parse.com): Scalability
+29. Is there a better way to find index of an element without using list built-in functions?: Performance
+30. Can you run a function on initialization in c?: Portability
+31. I am having trouble with user defined functions: Performance
+32. How can I made constructor point In ECC.? (plz help): Security
+33. How to write portable code in c++?: Portability
+34. Do you know more efficient way to create this python list?: Performance
+35. How to link old C code with reserved keywords in it with C++?: Portability
+36. What features of C++ are not compatible with compilers other than Visual Studio?: Portability
+37. How to design a C / C++ library to be usable in many client languages? [closed]: Portability
+38. generate a new piecewise function based on a number of piecewise functions in python: Performance
+39. Pros and Cons of implementing dynamic data structures as array in C? [closed]: Performance
+40. Is there a way to use a particular C function/symbol as output by nm: Security
+41. Is isnan in the std:: namespace? More in general, when is std:: necessary, optional or to be avoided?: Portability
+42. C++: Is there a standard definition for end-of-line in a multi-line string constant?: Portability
+43. How to replace new Function (string) constructors with simple functions: Security
+44. Most efficient paradigm for checking if a key exists in a c++ std::unordered_map?: Performance
+45. Are compilers smart enough to optimize functors with members the same as static method arguments?: Portability
+46. What is the time complexity of this function? is it n*log(n)? [duplicate]: Performance
+47. C99: compiler optimizations when accessing global variables and aliased memory pointers: Performance
+48. Is ISO C++ code directly compilable in C++/CLI? [duplicate]: Portability
+49. Efficiently calculate mean in a large C++ array: Performance
+50. Which data type to be used for a "generic" function pointer?: Portability
+51. C++ Compilation Standard for “&” vs “&&” Expressions?: Performance
+52. Are variables inside functions destroyed and re-initialized everytime the function is called?: Performance
+53. If I call a function that contains a for loop inside a for loop, is that considered O(n^2) time or O(n)?: Performance
+54. Declaring variables and functions, in what order?: Maintainability
+55. How to find out in source code the function names the Xcode's otool outputs for you?: Security
+56. What is a clean way to have a Python function execute in different modes bases on string input: Maintainability
+57. Whether to pass shared pointer or raw pointer to a function: Performance
+58. about efficiency of std::cout in c++ and alternative ways to print message: Performance
+59. Why does adding an "if" to a C++ code make it significantly faster?: Performance
+60. Why does the second call of the same function execute forever?: Performance
 
-Here are the classifications:
+All of these requirements are classified under the following categories:
 
-1. Availability: 0
-2. Fault Tolerance: 1
-3. Maintainability: 4
-4. Performance: 44
-5. Portability: 51
+* Performance: 34
+* Portability: 14
+* Security: 4
+* Maintainability: 3
+* Scalability: 1
 
 
 Performance
@@ -382,7 +342,12 @@ Here are the classifications:
 79. in the sake of increasing code performance... ESLint is reporting "Arrow function has a complexity of 21. Maximum allowed is 20": Performance
 80. why is this more efficient?: Performance
 
-All of these requirements are classified under the category of Performance.
+Classifications:
+
+1. Performance: 44
+2. Portability: 14
+3. Scalability: 4
+4. Maintainability: 1
 
 
 Security
@@ -2639,7 +2604,9 @@ Portability
 Performance
 
 
-Performance
+I'd be happy to help!
+
+The given requirement "Input formats and strategies for Junit testing" falls under the category of **Maintainability**.
 
 
 Performance
@@ -3375,91 +3342,7 @@ Performance
 Security
 
 
-Here are the classifications:
-
-1. How is a single threaded server able to cater to multiple clients even thru non-blocking I/O?: Performance
-2. Does C have functions that can test if value is within tolerance of an expected value, if not how do I create one?: Fault Tolerance
-3. Asp.net request queued in IIS even with low traffic and CPU usage is low (CPU:40%,: 50req/sec,20 concurrent users): Performance
-4. Best service architecture to listen for requests in queue (queue based load leveling)?: Scalability
-5. How to hand-over a TCP listening socket with minimal downtime?: Availability
-6. How to avoid response maniputaion for OTP verification: Security
-7. Why is HTTP(S) Test Script Recorder not properly working in a blazor server application: Performance
-8. This code works as intended wondering if method was good or convoluted? [closed]: Performance
-9. How to isolate NodeJS server to only run tests from user input and avoid attacks: Security
-10. static code analysis tools for spotting 64bit portability problems?: Portability
-11. How do CPG of Corosync, ZeroMQ, and Spread compare for messaging?: Availability
-12. What are the scalability benefits of async (non-blocking) code?: Scalability
-13. Conditional-compilation vs run-time checks for client-specific customization?: Maintainability
-14. Scalable and best way to get notifications not read count and mentions of a chat: Performance
-15. What algorithms can I use to produce simple human-readable fault-tolerant strings?: Fault Tolerance
-16. How to design a scalable rpc call listener?: Scalability
-17. How do I programmatically check memory use in a fairly portable way? (C/C++): Portability
-18. Is it expensive to do a WHOIS lookup using TcpClient.Connect() in C#?: Scalability
-19. Would compiler optimization remove try/catch block if catch does nothing?: Performance
-20. Message queueing solution for internet-connected, distributed C# clients: Scalability
-21. Web Audio API Best Practice, simple synth, system optimisation / garbage collection: Performance
-22. Mobile Performance Testing for Unique ID for particular device,here i am not having the user credentials,How to do user Load testing?: Performance
-23. SSL_read() on client blocks even after select() returns with readable server socket: Security
-24. Running a unit test from a console app is 5 times slower than from ReSharper: Performance
-25. How to implement fault tolerance of REST server in client side?: Fault Tolerance
-26. Server side session state in dotnet core web api - How to benchmark and validate if it will benefit my application scalability?: Scalability
-27. What's a safe way to secure basic auth for scheduled API calls?: Security
-28. How to achieve optimal read/unread message count for spring based application: Performance
-29. Determine that 95% of all the requests took no longer than 1 second and automatically stop the test if they did: Performance
-30. How to detect if the user has pressed some key, in a portable way, in a non-blocking way, without changing the content of the stdin buffer? [duplicate]: Portability
-31. What is the most obfuscated, inefficient and most challenging to understand method for checking to see if a number is even?: Performance
-32. how to process multiple API calls from the same client one by one in a scalable, highly concurrent and fault tolerant system: Scalability
-33. how to make 'B', 'C' codes are not to be loaded into memory to improve performance when 'A' is chosen among 'A', 'B', 'C' through if else?: Performance
-34. I'm currently testing a desktop app. I've included memory,CPU util, battery,power etc.What are the non-functional testcases that I should perform?: Security
-35. How can I do performance testing on application for 20,000 user-request per second?: Performance
-36. When I run the program in DevC++ 5.11 TDM-GCC 4.9.2 doesn't work how I expect, but in an online compiler it just works [duplicate]: Performance
-37. Monitor commands that are executed in a shell in Linux and block some of them, using a user-mode app or kernel module?: Security
-38. How to disable Read Protection Level 2 in stm32l152c series microcontroller?: Security
-39. If you use the defstruct slot option `:type` then do you eliminate run-time checks?: Performance
-40. How to use virtualized functions correctly for checks? (virtualized code, not virtual accessor): Security
-41. C++0x noise, bloat and portability [closed]: Portability
-42. How to make this code for only check 200 Header response and fast working?: Security
-43. What is best practice when it comes to "feature blocking" in react?: Security
-44. Checking for three-way-comparison operator support at compile time: Portability
-45. how to adhere to the Don't-Repeat-Yourself (DRY) principle when there will be too many if-then-else making the code unreadable?: Maintainability
-46. Socket.io: Load testing by Manual multiple client connections creation - Not working: Performance
-47. How can I test how many connections/active users does a Heroku dyno support for my app?: Scalability
-48. How to prevent a Node.js API REST app to be unresponsive on high CPU/RAM usage?: Performance
-49. Trying to use "Run once only" controller with "If" controller but sequence of requests is changed under the thread group: Performance
-50. Using a read-only replica in synchronous commit mode, is it possible for a query to get different results on the secondary than the primary?: Availability
-51. Check for number of javascript operations to keep them below a limit on a server side execution: Performance
-52. How can i do performance testing of chat: Performance
-53. SQL Server 2019 Availability Group Listener: What's the expected behavior for client connections during automatic failovers?: Availability
-54. Violation - event handler took <N> ms slows app significantly: Performance
-55. How can we restrict API calls based on Applications?: Security
-56. High availability computing: How to deal with a non-returning system call, without risking false positives?: Availability
-57. Do requests to SQS queue go over the internet when the request comes from a different VPC?: Security
-58. What should I know before making an API for high request amount?: Scalability
-59. Why is checking for a variables existence taking more time than copying an array which should be a O(1) vs O(n) operation?: Performance
-60. What are the best practices to follow for multi-region failover when there are SQS messages queued in the failing region?: Availability
-61. Writing a simple http login bruteforcer in python, getting diferent behavior when reading from wordlist: Security
-62. How to do performance and scalability testing without clear requirements?: Scalability
-63. Increasing code readability without a decrease in performance (for this snippet in C): Performance
-64. DAST security scaning of a IoT Nodemcu esp8266 LUA script www HTML server connected to camera and A/C relay: Security
-65. How to create a portable SignalR client compatible with "new" SignalR protocol (Microsoft.AspNetCore.SignalR 1.0.0-*)?: Portability
-66. Is accessing a read-only static variable better or worse than repeatedly retrieving data from an Azure blob?: Performance
-67. How to verify if there is some information in the stdin buffer in ANSI C in a portable way?: Portability
-68. EJB3.1 Remote invocation - is it distributed automatically? is it expensive?: Scalability
-69. What's the best approach towards implementing security for guest user requests in a stateless web API?: Security
-70. How to write test cases to check high availability of web service: Availability
-71. Too much time on a request making calls to https://dc.services.visualstudio.com/v2/track: Performance
-72. Use of a one-way hash without a salt while fixing Download of code without Integrity check issue Checkmarx: Security
-73. In azure data factory copy activity,fault tolerance is not applicable to check constraint: Fault Tolerance
-74. Is there a way to have a block of code executed atomically? (language does not matter): Fault Tolerance
-75. Load testing from a user point of view: Scalability
-76. How to check if a process has access to a securable object in windows: Security
-77. How do I prevent the password being checked to enable the "next" button if an invalid login is entered prior to the if statement?: Security
-78. Does a mutex lock guarantee that a thread will always store updated values into the main memory?: Performance
-79. Spring Boot API how to validate NONCE value sent in request header to avoid replay attacks: Security
-80. How to fix Ldap Enforce Channel Binding Microsoft CVE-2017-8563?: Security
-81. Test unit in C for server listening function. Avoid listen blocking call: Performance
-
-And the classification for the given requirement is: Performance
+Performance
 
 
 Portability
@@ -3692,7 +3575,9 @@ Performance
 
 I'd be happy to help!
 
-Based on the given requirement "Localized String not loading from customised bundle in M1 chip machine", I would classify it under the category of **Portability**.
+Based on the given requirement: "Localized String not loading from customised bundle in M1 chip machine"
+
+I would classify this requirement under the category: **Portability**
 
 
 Availability
@@ -4055,7 +3940,7 @@ Performance
 Scalability
 
 
-Portability
+Security
 
 
 Performance
@@ -4601,94 +4486,7 @@ Security
 Security
 
 
-Here are the classifications for the given non-functional software requirements:
-
-1. What are best automation client-side performance testing tools other than Sitespeed.io?: Performance
-2. Load testing from a user point of view: Scalability
-3. Enable the Diagnostics Logs for API level What is the cost and performance: Performance
-4. How to write test cases to check high availability of web service: Availability
-5. How to do performance and scalability testing without clear requirements?: Scalability
-6. Google Cloud - Load testing /QA team /: Scalability
-7. Best practice for API auth by security token (Node.js server and Mobile apps): Security
-8. What should I know before making an API for high request amount?: Scalability
-9. Easy way to load test asp.net application: Scalability
-10. API as testing object: Security
-11. Detect same issues as Google Security ASI service during development phase: Security
-12. Performance Testing Tool for a REST Web API: Scalability
-13. Custom hosted AWS Server Security Audit - Penetration Testing (Odoo V10 CE) [closed]: Security
-14. What's a safe way to secure basic auth for scheduled API calls?: Security
-15. Is package-lock.json meant also to improve security of the application built by subresource integrity check?: Security
-16. how to process multiple API calls from the same client one by one in a scalable, highly concurrent and fault tolerant system: Scalability
-17. Socket.io: Load testing by Manual multiple client connections creation - Not working: Performance
-18. How can I do performance testing on application for 20,000 user-request per second?: Performance
-19. I want to reduce Internet Speed while opening my Own App for testing purpose?: Performance
-20. Highly available API - is this solution a good one?: Availability
-21. Performance testing of hybrid app (jmeter): Performance
-22. Validate a JWT from another C# ASP.NET Core 3.1 API that consumes it: Security
-23. How to perform scalability testing of a web application using selenium: Scalability
-24. Should we do something regarding Log4j vulnerability when we are using it for Testing?( TestNg Framework): Security
-25. Automated testing tools to simulate 1000+ concurrent users  [closed]: Scalability
-26. Cloud Run - putting my microservices behind the Google Api Endpoint When using my own JWT not IAM: Security
-27. What's the best approach towards implementing security for guest user requests in a stateless web API?: Security
-28. How can we determine how much web requests per second a machine can handle without load testing?: Scalability
-29. how to run automated security tests for flutter mobile app?: Security
-30. OpenDJ: implementations of load balancing and High Availability: Availability
-31. Scalable architecture of Load Balancer and REST API service that consists of many databases: Scalability
-32. What are the pros and cons of using AWS AppSync vs Firestore for scalable chat application? [closed]: Scalability
-33. How to replicate a Java web app onto a 2nd computer for "high availability" and failure tolerance, or "failover"?: Availability
-34. Are there well-identified patterns for software scalability testing?: Scalability
-35. How do I use performance.measureMemory() API for frontend observability?: Performance
-36. In what kind of use are Servicestack's sessions in a multi-server environment scalable?: Scalability
-37. Conditional-compilation vs run-time checks for client-specific customization?: Maintainability
-38. EJB3.1 Remote invocation - is it distributed automatically? is it expensive?: Scalability
-39. Embedding a self-contained Java Server Faces or Servlet (?simulated) web app inside of an applet (for distribution of a sample application): Portability
-40. Mobile Performance Testing for Unique ID for particular device,here i am not having the user credentials,How to do user Load testing?: Performance
-41. Making a website/project Portable - Check List: Portability
-42. Load test and Scale MVC web api service: Scalability
-43. How to performance test workflow execution?: Performance
-44. Single Auth model for SPA+API Server and Traditional Web Application (OIDC way): Security
-45. securing code and data in a shiny app hosted on AWS: Security
-46. Is Visual Studio 2012's new C++ unit testing framework portable?: Portability
-47. How to configure spring http security for a rest api which needs to validate a JWT token generated by a third party and users don't have passwords?: Security
-48. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
-49. Micro-Service Architecture, Should the Spring Cloud Config Server, Zuul Gateway Server and Eureka Server be protected as Resources?: Security
-50. How does CCR & DSS toolkit model compare to other scalability & concurency approaches?: Scalability
-51. API Security check when passing URL as input body param: Security
-52. Spring Security - REST API http method validation with basic auth: Security
-53. Monitoring service with web API and GUI: Availability
-54. Best practice for securing a client side call to an API endpoint: Security
-55. Network Load Balancing (NLB): is it suitable for "stateful" ASP.NET applications?: Scalability
-56. How is a single threaded server able to cater to multiple clients even thru non-blocking I/O?: Performance
-57. Security risks of connecting an app with an API that requires no authentication: Security
-58. Is nested authentication and authorization with JWT using both machine-to-machine and user-based auth a thing?: Security
-59. I'm currently testing a desktop app. I've included memory,CPU util, battery,power etc.What are the non-functional testcases that I should perform?: Security
-60. Apiman 2.0.0 security vulnerabilities: Security
-61. How to implement Security in Rest API developed using Node.JS?: Security
-62. Server side session state in dotnet core web api - How to benchmark and validate if it will benefit my application scalability?: Scalability
-63. Give admins app to book a service for a user in another app using some api key: Security
-64. How to run the.NET portability analyzer for a web site application: Portability
-65. Implement a connection between my application (Spring integration) with IBM-MQ - High Availability: Availability
-66. Auth0 - How to Trust and Save User Information on a Custom API or Backend?: Security
-67. Organising JMeter API tests: Performance
-68. Fortify: How to automate getting issues (vulnerability) list under a project using Fortify API/CLI, to break my pipeline if there are vulnerabilities: Security
-69. Can i make a small program portable by statically linking all the libraries in vs2010?: Portability
-70. Invoking a script as part of a web api method : how bad an idea is it?: Security
-71. Running Drupal application on a webfarm (scalability ), HOW?: Scalability
-72. What is the risk of data capture/leak from web extensions when we run this tool on webpage?: Security
-73. aborting the test in loader.io tool, how to prevent it from aborting the test: Performance
-74. Use of a one-way hash without a salt while fixing Download of code without Integrity check issue Checkmarx: Security
-75. How to protect your own api so only your app can use it?: Security
-76. How to guarantee or check whether application is modified or tampered: Security
-77. How to generate data for POST, PUT, PATCH methods in OWASP tests?: Security
-78. Getting Signature and test ethrewum for multiple wallet addresses for load testing: Performance
-79. Is Google Cloud Load Balancer a single point of failure? Can we have a standby replica?: Availability
-80. Framework for distributed enterprise application with stateless services? [closed]: Scalability
-
-The given requirement "Api automation,Load testing and Security testing Do one project" falls under the category of:
-
-* Performance: As it involves automating API testing, load testing, and security testing, which are all related to performance and scalability.
-
-So, the classification is: Performance
+Based on the given requirement "Api automation, Load testing and Security testing Do one project", I would classify it under the category of "Security".
 
 
 Availability
@@ -5290,7 +5088,7 @@ Portability
 Performance
 
 
-Performance
+Based on the given requirement, I would classify it as: Portability
 
 
 Performance
@@ -5586,94 +5384,13 @@ Security
 Availability
 
 
-I'll classify the given non-functional software requirements into the following categories: Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security.
+Based on the given requirements, I would classify the following requirement as:
 
-Here are the classifications:
-
-1. is it possible that hash function produces the same hash value for two different inputs? [closed]: Security
-2. What should be the most optimized approach for solving this kind of problem? (Google Foobar Level 3): Performance
-3. Maximum number of compares to reach a search hit in a hash table with linear probing with special condition: Performance
-4. Inverting an Order-Preserving Minimal Perfect Hash Function in Better than O(K*lg N) Running Time: Performance
-5. Huge performance difference between methods of calculating a hash. This can't be right, right? [duplicate]: Performance
-6. In Hashing, can't we find AT LEAST one original text hashing to the given hash value: Security
-7. is there cryptographically secure hash algorithm/function that allows hashing faster when you concatenate more data?: Security
-8. HashMap with consecutive Integers as keys vs. ArrayList: Performance
-9. How to ensure that consistent hashing works?: Scalability
-10. Does std::hash give same result for same input for different compiled builds and different machines?: Portability
-11. How is it possible to have these reversed hashes available on the web?: Security
-12. Why does increasing the hash table size for a chess engine, also drastically increase the time it takes to reach depth 30?: Performance
-13. Use of a one-way hash without a salt while fixing Download of code without Integrity check issue Checkmarx: Security
-14. To store and update an existing object which is best Hashset or hashmap?: Performance
-15. Large MILP with best bound = objective value at every node of B&B, why doesn't solver accept the solution?: Performance
-16. Java HashMap: Reinitialize A New Map vs map.clear() vs Just Put right away when inserting maps with same keys to a list [duplicate]: Performance
-17. How can I update an entry in a HashMap with a refrence to a key?: Performance
-18. Using the following hashing method to store a database object: Security
-19. What hash (Python 3 hashlib) yields a portable hash of file contents?: Portability
-20. Why is the execution plan of these two equivalent queries so wildy different (inner join + partition by)?: Performance
-21. Why does my Intel Skylake / Kaby Lake CPU incur a mysterious factor 3 slowdown in a simple hash table implementation?: Performance
-22. Can circular hashing remain consistent as the target set grows?: Scalability
-23. Why is a hashmap slower when I edit it to be able to look up pointers as keys?: Performance
-24. how to implement a hash-table that can run multiple threads on a machine with say N cores?: Scalability
-25. Are these the ways to write a query without joins in a NOSQL scalable website architecture?: Scalability
-26. What is the fastest way to get a hash of a collection [closed]: Performance
-27. Best choice for a huge database table which contains only integers (have to use SUM() or AVG() ): Scalability
-28. Select a random (ish) element in an abseil::node_hash_map?: Performance
-29. Huge Performance Difference with HashSet between.NET Framework 4.8 and.NET 5: Performance
-30. How to quickly find common values ​in a list of (sorted?) lists? [Answered]: Performance
-31. Hardcoded PHP array vs. MySQL table for displaying a random entry from a fixed list [closed]: Maintainability
-32. What are the sharding heuristics for MySQL - number of records per table & number of tables per instance?: Scalability
-33. Best performant way for computing occurrences of values within nested structures, and updating the structures themselves: Performance
-34. what is the difference between consistent hashing and sticky sessions?: Performance
-35. What are the differences between different Database solutions like mysql, Nosql, Cassandra, Mongodb, postgresql and when would you use each? [closed]: Scalability
-36. Looking for distributed/scalable database solution where all nodes are read/write? Not MongoDB? [closed]: Scalability
-37. How do I create a HashSet of unique values without comparison in Java [closed]: Performance
-38. which solution is the most performing and why in order to find the number of duplicates in a complex list?: Performance
-39. Is there a better way of finding solution than using nested loops?: Performance
-40. Can Set be faster than Hashtable?: Performance
-41. LinkedHashSet vs HashSet - iteration performance depends on object type? [duplicate]: Performance
-42. Is the.NET string hash function portable? [duplicate]: Portability
-43. Is it necessary to hash data POSTed if using SSL?: Security
-44. Fast hashing (Spooky, xxH, Farm, Fast) slow?: Performance
-45. Can I get (portable) access to the C++ standard library's hash implementation?: Portability
-46. How to efficiently browse and compare the values of a very large dictionary with the elements of a list?: Performance
-47. How do you change the hash algorithm in mysql?: Security
-48. How can I improve the performance of this brute force code for finding files with the same hash?: Performance
-49. What for sturtup to start with: complex systems (requiring big resourses) or simple and rewrite later for scalability or own "middle" solution?: Scalability
-50. How to check more efficiently if every key in a std::map has been called: Performance
-51. Is one table with partition better for response time or multiple tables, for using in website and operations(insert, update, delete) used frequently: Performance
-52. How can i find the execution plan Hash value used by query in Oracle?: Performance
-53. Meta table VS table with many fields, on a large scale. Performance-wise: Scalability
-54. SQL BigQuery Resources Exceeded doing a LEFT JOIN with a large table (100 Million rows) What should I do to have a good performance/optimization?: Performance
-55. Relatively better solution to pagination for complex (multiple table joint) query?: Performance
-56. Clean code - Search endpoint with one or more filters with specific rules: How to avoid multiple "ifs"?: Performance
-57. Find the index of last non-zero value per column of a 2-D array: Performance
-58. Why can't we store every hashed password ever in storage(HDD) and use that to match the hashed password instead of use brute force password cracking?: Security
-59. Using a read-only replica in synchronous commit mode, is it possible for a query to get different results on the secondary than the primary?: Availability
-60. Quicker solution to the problem with loops and dictionaries: Performance
-61. How can I optimally load a web page that is a big table, centering the viewport on a specific row of that table?: Performance
-62. I need to perform an "expensive" loop on a table with millions of rows. What technology (programming language or something else) should I use?: Performance
-63. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
-64. Why I am getting 6.39e-05 mAP value of YOLO on Raspberry Pi? How to get the best correct value of mAP where the correct value is around 0.76?: Performance
-65. looking efficient algorithm for combinatorial problem: Performance
-66. Which of the following two pieces of code is faster or the same, and why?: Performance
-67. To improve performance, is it better to run as few commands as possible in a query or to process the least amount of data?: Performance
-68. Very large table containing relevance data. What DBMS would be optimal, and how to model it? [closed]: Scalability
-69. What is the most efficient way to calculate a table in Python in which some columns depends on others and previous values?: Performance
-70. Fastest way to transform values inside an IEnumerable<T>, am I missing something with Linq Select? [duplicate]: Performance
-71. Finds the number present at more than one array w.r.t. performance scale solution javascript: Performance
-72. Performance difference between summing iterator of 1 with if v.s. iterator of boolean condition: Performance
-73. What is the most obfuscated, inefficient and most challenging to understand method for checking to see if a number is even?: Performance
-74. How to find a String that startsWith other String in Map<String, String>, by the most efficient way: Performance
-75. Can i generate a hash of a javascript file to check if it has been edited by the client? [closed]: Security
-76. RabbitMQ Clustering with 1Master & 5Nodes [Solved]: Availability
-77. What is the most optimal way to store a trie for typeahead suggestions in distributed systems?: Scalability
-78. Looking For a Good and Easy solution [closed]: Performance
-79. Chronicle Values: What's the point if it still needs to allocate an instance on heap? [closed]: Performance
-80. Is there a more efficient way to compare the items of two lists and find leftOuterItems, rightOuterItems and matchedItems?: Performance
+**Performance**
 
 For which of the following will a hash table be best to solve the problem?
 
-The answer is: Performance
+This requirement falls under the category of Performance as it is asking about the most efficient data structure to solve a problem, which is a hash table.
 
 
 Portability
@@ -6170,7 +5887,7 @@ Availability
 Availability
 
 
-The given requirement: "How can I separate concerns (JS, HTML) while keeping maintainability?" can be classified under the category: Maintainability.
+The given requirement "How can I separate concerns (JS, HTML) while keeping maintainability?" can be classified under the category of Maintainability.
 
 
 Performance
@@ -6726,9 +6443,7 @@ Portability
 Performance
 
 
-The given requirement: "Is there any easy way to develop easily maintainable code where XML parameters must have the same name as class variables in C#?"
-
-Category: Maintainability
+The given requirement: "Is there any easy way to develop easily maintainable code where XML parameters must have the same name as class variables in C#" can be classified under the category: Maintainability.
 
 
 Performance
@@ -7154,7 +6869,7 @@ Security
 Performance
 
 
-Portability
+The given requirement "Difference between using Interface vs Generic type implementing Interface [duplicate]" falls under the category of Maintainability.
 
 
 Portability
@@ -7461,7 +7176,6 @@ Here are the classifications:
 78. Refused to display xyz in a frame because it set X-Frame-Options - can I set an allowed domain?: Security
 79. Would Terracota be a good solution for fast changing large data made up of fine objects?: Scalability
 80. What design patterns are most leveraged in creating high availability applications? [closed]: Availability
-
 81. How do I apply nonintrusive design changes to Magento 1.X
 
 And the classification for the given requirement is: Maintainability
@@ -9100,7 +8814,7 @@ Performance
 Scalability
 
 
-I would classify this requirement as "Portability".
+I would classify the given requirement as "Performance".
 
 
 Performance
@@ -9874,7 +9588,7 @@ Performance
 Performance
 
 
-Portability
+Performance
 
 
 Performance
@@ -10780,7 +10494,7 @@ Scalability
 Performance
 
 
-Performance
+I'd classify the given requirement as: Maintainability
 
 
 Portability
