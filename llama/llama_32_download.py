@@ -1,14 +1,5 @@
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-# import pickle
-# import tiktoken
-# import sys
-# import transformers
-# from transformers import pipeline, LlamaTokenizer, LlamaForCausalLM, AutoTokenizer, AutoModelForCausalLM
-# from gpt_ner_api_codes.prompts_all import *
-# from timeit import default_timer
-# import nltk
-# nltk.download('punkt')
+
+
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "2"  #"1"  or "0,1" for multiple GPUs
@@ -18,8 +9,8 @@ from transformers import pipeline
 from utils_llama import read_prompt_list, get_completion_list, save_completion_list
 
 
-#model_id = "meta-llama/Llama-3.2-1B"
-model_id = "meta-llama/Llama-3.2-1B-Instruct"
+#model_id = "meta-llama/Llama-3.2-3B"
+model_id = "meta-llama/Llama-3.2-3B-Instruct"
 
 pipe = pipeline(
     "text-generation", 
