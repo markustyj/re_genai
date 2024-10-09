@@ -8,7 +8,9 @@
 
 import csv
 import pandas as pd
+import matplotlib.pyplot as plt  
 from sklearn.metrics import precision_score, recall_score, f1_score
+  
 
 
 
@@ -55,8 +57,7 @@ def get_evaluation_results(ground_truth, processed_completion_list):
     print("Precision:", precision)  
     print("Recall:", recall, "\n###########\n\n")  
 
-
-    #return precision, recall, f1
+    return f1, precision, recall
 
 
 
@@ -94,3 +95,26 @@ def load_csv_for_evaluation(file_path):
     loaded_test_data = pd.read_csv(file_path)  
 
     return loaded_test_data  # the first row of title is not loaded, only the content is necessary.
+
+
+
+
+def plot_value(values):  
+  
+    # Create a figure and axis  
+    fig, ax = plt.subplots()  
+  
+    num_shot_list = [0,5,10,20,40,80,160]
+    # Plot the change of values  
+    ax.plot(num_shot_list, values)  
+
+    # set y_axis limit
+    ax.set_ylim([0, 1.0])
+  
+    # Set labels and title  
+    ax.set_xlabel('number of few shots')  
+    ax.set_ylabel('F1 score')  
+    ax.set_title('Relationship between F1 score and number of few-shot examples')  
+  
+    # Show the plot  
+    plt.show() 
